@@ -8,18 +8,66 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import re
 
-def select_semester(selected, driver):
-    """Select the specified semester and proceed to search."""
-    semesters = Select(driver.find_element(By.NAME, "term_code"))
-    semesters.select_by_value(selected)
-
-    button = driver.find_element(By.XPATH, "//input[@type='submit' and @value='Proceed to Search']")
-    button.click()
-
-    # Wait for page to load
-    WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.ID, "subj_id"))
-    )
+def login_and_navigate(driver, username, password):
+    """Log in to Carleton system and navigate to the class schedule page."""
+    try:
+        # Start from the main Carleton Central page
+        driver.get("https://central.carleton.ca/")
+        
+        # Click the login button (which redirects to the auth page)
+        # login_button = driver.find_element(By.LINK_TEXT, "Login")
+        # login_button.click()
+        
+        # Wait for login form to appear
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.ID, "userNameInput"))
+        )
+        
+        # Find and fill username field
+        username_field = driver.find_element(By.ID, "userNameInput")
+        username_field.send_keys(username)
+        
+        # Find and fill password field  
+        password_field = driver.find_element(By.ID, "passwordInput")
+        password_field.send_keys(password)
+        
+        sleep(5)
+        # Find and click the login button
+        login_button = driver.find_element(By.ID, "submitButton")
+        login_button.click()
+        
+        # Wait for the Carleton Central main page to load after login
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_element_located((By.LINK_TEXT, "Build Your Timetable/Registration"))
+        )
+        print("Login successful!")
+        
+        # Click on the "Build Your Timetable/Registration" link
+        build_timetable_link = driver.find_element(By.LINK_TEXT, "Build Your Timetable/Registration")
+        build_timetable_link.click()
+        
+        # Wait for term selection page to load
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.NAME, "term_code"))
+        )
+        
+        # Select "Summer 2025" from the dropdown
+        term_select = Select(driver.find_element(By.ID, "term_code"))
+        term_select.select_by_value("202520")  # Summer 2025
+        
+        # Click the submit button to proceed
+        submit_button = driver.find_element(By.CSS_SELECTOR, "input[type='submit']")
+        submit_button.click()
+        
+        # Wait for the program selection page to load
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.ID, "subj_id"))
+        )
+        
+        return True
+    except Exception as e:
+        print(f"Login or navigation failed: {e}")
+        return False
 
 def extract_class_schedule(driver):
     """
@@ -101,11 +149,22 @@ def extract_class_schedule(driver):
                     'section': cells[4].text,
                     'title': title,
                     'credits': cells[6].text if len(cells) > 6 else "",
-                    'type': cells[7].text if len(cells) > 7 else "",
-                    'online': cells[8].text if len(cells) > 8 else "",
-                    'hybrid': cells[9].text if len(cells) > 9 else "",
-                    'instructor': cells[10].text if len(cells) > 10 else ""
+                    'type': cells[7].text if len(cells) > 7 else ""
                 }
+                
+                # Handle column variations between different table structures
+                # Determine which columns contain what information based on header or content
+                if len(cells) > 8:
+                    # Try to determine if this is the online/hybrid indicator column
+                    if "Yes" in cells[8].text or "No" in cells[8].text:
+                        current_class['hybrid'] = cells[8].text
+                if len(cells) > 9:
+                    # Could be online indicator
+                    if "Yes" in cells[9].text or "No" in cells[9].text:
+                        current_class['online'] = cells[9].text
+                if len(cells) > 10:
+                    current_class['instructor'] = cells[10].text.strip() if cells[10].text else "TBD"
+                
                 meeting_times = []
                 section_info = ""
             except Exception as e:
@@ -115,45 +174,46 @@ def extract_class_schedule(driver):
         # Meeting date row
         elif len(cells) > 1 and "Meeting Date:" in cells[1].text:
             try:
-                # Parse meeting information (date, days, time)
+                # Parse meeting information (date, days, time, building, room)
                 meeting_text = cells[1].text
-                date_match = re.search(r'Meeting Date:\s+(.*?)\s+to\s+(.*?)\s+Days:', meeting_text)
-                days_match = re.search(r'Days:\s+(.*?)\s+Time:', meeting_text)
-                time_match = re.search(r'Time:\s+(.*?)$', meeting_text)
                 
-                if date_match:
-                    start_date = date_match.group(1)
-                    end_date = date_match.group(2)
-                    days = days_match.group(1) if days_match else ""
-                    time_str = time_match.group(1) if time_match else ""
-                    
-                    # Parse time (if available)
-                    start_time, end_time = "", ""
-                    if time_str and " - " in time_str:
-                        start_time, end_time = time_str.split(" - ")
-                    
-                    meeting_times.append({
-                        'start_date': start_date,
-                        'end_date': end_date,
-                        'days': days,
-                        'start_time': start_time,
-                        'end_time': end_time
-                    })
+                # Extract date information
+                date_match = re.search(r'Meeting Date:\s+(.*?)\s+to\s+(.*?)\s+Days:', meeting_text)
+                start_date = date_match.group(1) if date_match else ""
+                end_date = date_match.group(2) if date_match else ""
+                
+                # Extract days information
+                days_match = re.search(r'Days:\s+(.*?)(?:\s+Time:|$)', meeting_text)
+                days = days_match.group(1).strip() if days_match else ""
+                
+                # Extract time information
+                time_match = re.search(r'Time:\s+(.*?)(?:\s+Building:|$)', meeting_text)
+                time_str = time_match.group(1).strip() if time_match else ""
+                start_time, end_time = "", ""
+                if time_str and " - " in time_str:
+                    start_time, end_time = time_str.split(" - ")
+                
+                # Extract building and room information
+                building_match = re.search(r'Building:\s+(.*?)(?:\s+Room:|$)', meeting_text)
+                room_match = re.search(r'Room:\s+(.*?)$', meeting_text)
+                building = building_match.group(1).strip() if building_match else ""
+                room = room_match.group(1).strip() if room_match else ""
+                
+                meeting_times.append({
+                    'start_date': start_date,
+                    'end_date': end_date,
+                    'days': days,
+                    'start_time': start_time,
+                    'end_time': end_time,
+                    'building': building,
+                    'room': room
+                })
             except Exception as e:
                 print(f"Error processing meeting date row: {e}")
                 
         # Section information row
         elif len(cells) > 1 and "Section Information:" in cells[1].text:
-            try:
-                section_info = cells[1].text
-                
-                # Try to extract building and room information from section info
-                location_match = re.search(r'(?:IN-PERSON|ONLINE|HYBRID).*?(?:in|at)?\s+([A-Za-z0-9\s]+)\s+(?:room|rm)?\s*([A-Za-z0-9\-]+)', section_info, re.IGNORECASE)
-                if location_match and current_class:
-                    current_class['building'] = location_match.group(1).strip()
-                    current_class['room'] = location_match.group(2).strip()
-            except Exception as e:
-                print(f"Error processing section info row: {e}")
+            section_info = cells[1].text
     
     # Make sure we add the last class
     if current_class and meeting_times:
@@ -165,23 +225,6 @@ def extract_class_schedule(driver):
     
     # Convert to DataFrame for easier manipulation
     df = pd.DataFrame(classes)
-    
-    if not df.empty:
-        # Extract location information from section_info if not already parsed
-        if 'building' not in df.columns:
-            df['building'] = 'N/A'
-            df['room'] = 'N/A'
-            
-            # Look for location patterns in section_info
-            for i, row in df.iterrows():
-                if 'section_info' in row:
-                    section_info = row['section_info']
-                    if 'IN-PERSON' in section_info:
-                        df.at[i, 'building'] = 'See instructor' 
-                        df.at[i, 'room'] = 'See instructor'
-                    elif 'ONLINE' in section_info:
-                        df.at[i, 'building'] = 'ONLINE'
-                        df.at[i, 'room'] = 'ONLINE'
     
     return df
 
@@ -215,22 +258,25 @@ def search_program(driver, program_code):
     except:
         print(f"No results found for program {program_code} or timeout occurred.")
 
-def main_function():
+def main_function(username, password):
     """Main function to extract class schedules for all programs in a semester."""
     # Setup output directory
     output_dir = "class_schedules"
     os.makedirs(output_dir, exist_ok=True)
     
-    # Initialize webdriver
-    driver = webdriver.Chrome()
+    # Initialize webdriver with options for better handling
+    options = webdriver.ChromeOptions()
+    options.add_argument("--start-maximized")  # Start with window maximized
+    options.add_argument("--disable-popup-blocking")  # Disable popup blocking
+    options.add_argument("--disable-notifications")  # Disable notifications
+    
+    driver = webdriver.Chrome(options=options)
     
     try:
-        # Navigate to the course selection page
-        driver.get("https://central.carleton.ca/prod/bwysched.p_select_term?wsea_code=EXT")
-        
-        # Select the desired semester (Summer 2025 in this case)
-        semester_code = "202520"
-        select_semester(semester_code, driver)
+        # Login and navigate to the class schedule page
+        if not login_and_navigate(driver, username, password):
+            print("Login or navigation failed. Exiting...")
+            return
         
         # Get all available programs
         programs = get_all_programs(driver)
@@ -257,7 +303,7 @@ def main_function():
                 all_classes_df = pd.concat([all_classes_df, program_df], ignore_index=True)
                 
                 # Save individual program data
-                program_file = os.path.join(output_dir, f"{program}_{semester_code}.csv")
+                program_file = os.path.join(output_dir, f"{program}_{202520}.csv")
                 program_df.to_csv(program_file, index=False)
                 print(f"Saved {len(program_df)} classes for {program}")
             
@@ -267,7 +313,7 @@ def main_function():
         
         # Save the combined data
         if not all_classes_df.empty:
-            combined_file = os.path.join(output_dir, f"all_classes_{semester_code}.csv")
+            combined_file = os.path.join(output_dir, f"all_classes_{202520}.csv")
             all_classes_df.to_csv(combined_file, index=False)
             print(f"Successfully saved all {len(all_classes_df)} classes to {combined_file}")
         else:
@@ -281,4 +327,7 @@ def main_function():
         driver.quit()
 
 if __name__ == "__main__":
-    main_function()
+    # Replace with your actual credentials
+    username = ""
+    password = ""
+    main_function(username, password)
