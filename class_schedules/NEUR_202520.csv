@@ -1,0 +1,18 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21097,Open,NEUR 1202,A,NMH and Psychiatric Disease,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,NEUR
+21364,Open,NEUR 1203,A,NMH and Neurological Disease,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,NEUR
+21098,Open,NEUR 2201,A,Cellular and Molecular Neur,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,NEUR
+21365,Open,NEUR 2202,A,Neurodevelopment & Plasticity,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,NEUR
+20596,Open,NEUR 4900,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20597,Open,NEUR 4907,A,Honours Essay & Research Proposa,1,Honours Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20598,Open,NEUR 4908,A,Honours Research Thesis,1,Honours Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+21100,Open,NEUR 4908,B,Honours Research Thesis,1,Honours Essay,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20599,Open,NEUR 5909,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20600,Open,NEUR 6200,O,Comprehensive Examination,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20601,Open,NEUR 6301,A,Techniques in Neuroscience I,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20602,Open,NEUR 6302,A,Techniques in Neuroscience II,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20603,Open,NEUR 6401,W,Independ Rsrch Neuroscience I,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20604,Open,NEUR 6402,A,Independ rsrch Neuroscience II,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20605,Open,NEUR 6501,A,Direct Studies Neuroscience I,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20606,Open,NEUR 6502,A,Direct Studies Neuroscience I,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20607,Open,NEUR 6909,S,Ph.D Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR

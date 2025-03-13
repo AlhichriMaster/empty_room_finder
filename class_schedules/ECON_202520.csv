@@ -1,0 +1,25 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20920,Open,ECON 1001,S,Intro to Microeconomics,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,ECON
+20921,Open,ECON 1001,S01,Intro to Microeconomics,0,Discussion Group,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECON
+20922,Open,ECON 1001,S02,Intro to Microeconomics,0,Discussion Group,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECON
+21256,Open,ECON 1002,S,Intro to Macroeconomics,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,ECON
+21257,Open,ECON 1002,S01,Intro to Macroeconomics,0,Discussion Group,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECON
+21258,Open,ECON 1002,S02,Intro to Macroeconomics,0,Discussion Group,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECON
+20923,Open,ECON 2030,A,Interm MicreconII: Consum & Equil,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,ECON
+20924,Open,ECON 2030,A01,Interm MicreconII: Consum & Equil,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,16:35,17:25,ON,LINE,,ECON
+20925,Open,ECON 2102,A,Intermediate Macroeconomics I,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+20926,Open,ECON 2102,A01,Intermediate Macroeconomics I,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,15:05,16:25,ON,LINE,,ECON
+21259,Open,ECON 2220,A,Introductory Econometrics,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+21260,Open,ECON 2220,A01,Introductory Econometrics,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,16:05,17:25,ON,LINE,,ECON
+21261,Open,ECON 3509,A,Dev Planning & Project Eval,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,ECON
+20927,Open,ECON 3602,A,Int'l Monetary Problems,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+20313,Open,ECON 4880,S,Economics of Immigration,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+21262,Open,ECON 4905,A,Honours Capstone Seminar,.5,Seminar,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+21443,Open,ECON 5065,S,Selected Topics Immigration,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+20320,Open,ECON 5902,S,Internship Placement,.5,Field Placement,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20321,Open,ECON 5906,S,Directed Research,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20322,Open,ECON 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20323,Open,ECON 6904,S,Directed Readings,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20324,Open,ECON 6907,S,Thesis Workshop I,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20325,Open,ECON 6908,S,Thesis Workshop II,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20326,Open,ECON 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON

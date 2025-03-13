@@ -1,0 +1,50 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20778,Open,ACCT 5001,V,Financial Accounting,.25,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+21178,Open,ACCT 5002,V,Managerial Accounting,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+20779,Open,ACCT 5011,V,Financial Statement Analysis,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+20780,Open,ACCT 5012,V,Performance Measurement & Cont,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+20781,Open,ACCT 5013,V,Finan Rprt & Cntrl in Pblc Org,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+21179,Open,ACCT 5014,V,Governance and Accountability,.25,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+20782,Open,ACCT 5120,A,Advanced Concepts,.5,Seminar,No,Yes,,"May 05, 2025","May 09, 2025",Tue Fri,09:05,11:55,Nicol Building,4040,,ACCT
+20782,Open,ACCT 5120,A,Advanced Concepts,.5,Seminar,No,Yes,,"May 12, 2025","May 16, 2025",Mon Wed,09:05,11:55,Nicol Building,4040,,ACCT
+20782,Open,ACCT 5120,A,Advanced Concepts,.5,Seminar,No,Yes,,"May 19, 2025","May 23, 2025",Tue Fri,09:05,11:55,Nicol Building,4040,,ACCT
+20782,Open,ACCT 5120,A,Advanced Concepts,.5,Seminar,No,Yes,,"May 26, 2025","Jun 17, 2025",Mon Wed,09:05,11:55,Nicol Building,4040,,ACCT
+20783,Open,ACCT 5120,B,Advanced Concepts,.5,Seminar,No,Yes,,"May 05, 2025","May 09, 2025",Tue Fri,13:05,15:55,Nicol Building,4040,,ACCT
+20783,Open,ACCT 5120,B,Advanced Concepts,.5,Seminar,No,Yes,,"May 12, 2025","May 16, 2025",Mon Wed,13:05,15:55,Nicol Building,4040,,ACCT
+20783,Open,ACCT 5120,B,Advanced Concepts,.5,Seminar,No,Yes,,"May 19, 2025","May 23, 2025",Tue Fri,13:05,15:55,Nicol Building,4040,,ACCT
+20783,Open,ACCT 5120,B,Advanced Concepts,.5,Seminar,No,Yes,,"May 26, 2025","Jun 17, 2025",Mon Wed,13:05,15:55,Nicol Building,4040,,ACCT
+20784,Open,ACCT 5121,A,Advanced Concepts II,.5,Seminar,No,Yes,,"May 05, 2025","May 09, 2025",Tue Fri,13:05,15:55,Nicol Building,3040,,ACCT
+20784,Open,ACCT 5121,A,Advanced Concepts II,.5,Seminar,No,Yes,,"May 12, 2025","May 16, 2025",Mon Wed,13:05,15:55,Nicol Building,3040,,ACCT
+20784,Open,ACCT 5121,A,Advanced Concepts II,.5,Seminar,No,Yes,,"May 19, 2025","May 23, 2025",Tue Fri,13:05,15:55,Nicol Building,3040,,ACCT
+20784,Open,ACCT 5121,A,Advanced Concepts II,.5,Seminar,No,Yes,,"May 26, 2025","Jun 17, 2025",Mon Wed,13:05,15:55,Nicol Building,3040,,ACCT
+20785,Open,ACCT 5121,B,Advanced Concepts II,.5,Seminar,No,Yes,,"May 05, 2025","May 09, 2025",Tue Fri,09:05,11:55,Nicol Building,3040,,ACCT
+20785,Open,ACCT 5121,B,Advanced Concepts II,.5,Seminar,No,Yes,,"May 12, 2025","May 16, 2025",Mon Wed,09:05,11:55,Nicol Building,3040,,ACCT
+20785,Open,ACCT 5121,B,Advanced Concepts II,.5,Seminar,No,Yes,,"May 19, 2025","May 23, 2025",Tue Fri,09:05,11:55,Nicol Building,3040,,ACCT
+20785,Open,ACCT 5121,B,Advanced Concepts II,.5,Seminar,No,Yes,,"May 26, 2025","Jun 17, 2025",Mon Wed,09:05,11:55,Nicol Building,3040,,ACCT
+20786,Open,ACCT 5122,A,Issues in Taxation,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu,09:05,11:55,Nicol Building,4040,,ACCT
+21180,Open,ACCT 5123,A,Advanced Taxation,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,09:05,11:55,Nicol Building,4040,,ACCT
+21181,Open,ACCT 5123,B,Advanced Taxation,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:05,15:55,Nicol Building,4040,,ACCT
+20787,Open,ACCT 5123,P,Advanced Taxation,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,18:05,20:55,Nicol Building,4040,,ACCT
+20788,Open,ACCT 5125,A,Advanced Assurance,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,08:35,11:25,Nicol Building,4020,,ACCT
+20789,Open,ACCT 5125,B,Advanced Assurance,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Nicol Building,4020,,ACCT
+20790,Open,ACCT 5128,A,Strategy for Prof. Accountants,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu,09:05,11:55,Nicol Building,4050,,ACCT
+20791,Open,ACCT 5128,B,Strategy for Prof. Accountants,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu,13:05,15:55,Nicol Building,4050,,ACCT
+21182,Open,ACCT 5129,A,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 03, 2025","Jul 03, 2025",Thu,09:05,15:55,Nicol Building,4010,,ACCT
+21182,Open,ACCT 5129,A,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 08, 2025","Jul 08, 2025",Tue,09:05,13:25,Nicol Building,4050,,ACCT
+21182,Open,ACCT 5129,A,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 10, 2025","Aug 14, 2025",Thu,09:05,13:25,Nicol Building,4050,,ACCT
+21183,Open,ACCT 5129,B,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 03, 2025","Jul 03, 2025",Thu,09:05,15:55,Nicol Building,4010,,ACCT
+21183,Open,ACCT 5129,B,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 08, 2025","Jul 08, 2025",Tue,09:05,13:25,Nicol Building,4040,,ACCT
+21183,Open,ACCT 5129,B,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 10, 2025","Aug 14, 2025",Tue Thu,11:05,15:25,Nicol Building,4040,,ACCT
+21184,Open,ACCT 5130,A,Advanced Finance,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:05,15:55,Nicol Building,4050,,ACCT
+21185,Open,ACCT 5130,P,Advanced Finance,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Nicol Building,4050,,ACCT
+20792,Open,ACCT 5134,A,Advanced Integration I,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Wed,14:35,17:25,Nicol Building,4050,,ACCT
+20793,Open,ACCT 5134,P,Advanced Integration I,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Wed,18:05,20:55,Nicol Building,4050,,ACCT
+21186,Open,ACCT 5136,A,Advanced Integration II,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,08:35,14:25,Nicol Building,4020,,ACCT
+21186,Open,ACCT 5136,A,Advanced Integration II,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,14:35,17:25,Nicol Building,4020,,ACCT
+21187,Open,ACCT 5136,P,Advanced Integration II,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,17:25,Nicol Building,3040,,ACCT
+21187,Open,ACCT 5136,P,Advanced Integration II,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Sun Sat,08:35,14:25,Nicol Building,3040,,ACCT
+20794,Open,ACCT 5137,A,Professional Acctng Cases II,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue,11:35,14:25,Nicol Building,4020,,ACCT
+20794,Open,ACCT 5137,A,Professional Acctng Cases II,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Fri,08:35,14:25,Nicol Building,4020,,ACCT
+20795,Open,ACCT 5137,B,Professional Acctng Cases II,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue,14:35,17:25,Nicol Building,4020,,ACCT
+20795,Open,ACCT 5137,B,Professional Acctng Cases II,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Fri,08:35,14:25,Nicol Building,4020,,ACCT
+20001,Open,ACCT 5199,A,Internship,1,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ACCT

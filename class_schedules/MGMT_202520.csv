@@ -1,0 +1,8 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20574,Open,MGMT 5100,N,Managing People & Organization,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MGMT
+21357,Open,MGMT 5100,V,Managing People & Organization,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MGMT
+21358,Open,MGMT 5111,V,Conflict & Negotiation,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MGMT
+21359,Open,MGMT 5112,V,Power & Influence,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MGMT
+21360,Open,MGMT 5114,P,Managing Diversity,.25,Seminar,Yes,Yes,,"Jul 25, 2025","Jul 26, 2025",Fri Sat,08:35,17:25,Nicol Building,4040,,MGMT
+21087,Open,MGMT 5116,V,Managing Performance,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MGMT
+21088,Open,MGMT 5120,V,Fundam Lead & Manag Organi Chng,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MGMT

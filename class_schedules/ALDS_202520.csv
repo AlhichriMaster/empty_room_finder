@@ -1,0 +1,17 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20002,Open,ALDS 3900,A,Independent Study,1,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20003,Open,ALDS 3901,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20004,Open,ALDS 4900,A,Independent Study,1,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20005,Open,ALDS 4901,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20006,Open,ALDS 4908,A,Hons Proj Applied Ling & Disc,1,Honours Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20012,Open,ALDS 5907,S,Tutorial in ALDS,1,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20015,Open,ALDS 5908,F,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20017,Open,ALDS 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20018,Open,ALDS 6105,S,Dir Reading Ling & Disc Studies,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20019,Open,ALDS 6109,S,Doc Project I: Literatur Review,.5,Research Project,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20020,Open,ALDS 6200,S,Praxis in ALDS,1,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20021,Open,ALDS 6209,S,Doctoral Proj II: Thesis Propos,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20022,Open,ALDS 6211,S,Praxis in ALDS I,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20023,Open,ALDS 6212,S,Praxis in ALDS II,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20024,Open,ALDS 6309,S,Project III: Research Report,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20025,Open,ALDS 6909,S,Ph.D. Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS

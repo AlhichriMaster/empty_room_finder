@@ -1,0 +1,4 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20901,Open,CLCV 1003,A,Survey of Roman Civilization,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,CLCV
+20152,Open,CLCV 2305,W,Ancient Science and Technology,1,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,CLCV
+20902,Open,CLCV 2500,A,Classical Mythology,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,CLCV

@@ -1,0 +1,18 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21205,Open,BIOL 1010,V,Biotechnology and Society,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BIOL
+21206,Open,BIOL 1902,V,Natural History,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BIOL
+20825,Open,BIOL 2303,A,Microbiology,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BIOL
+20056,Open,BIOL 3605,A,Field Course I,.5,Field Course,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20057,Open,BIOL 3606,A,Field Course II,.5,Field Course,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20058,Open,BIOL 3901,A,Research Proposal,.5,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20060,Open,BIOL 4901,A,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20061,Open,BIOL 4901,B,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20062,Open,BIOL 4907,A,Honours Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20063,Open,BIOL 4908,A,Honours Research Thesis,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20064,Open,BIOL 4908,B,Honours Research Thesis,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20065,Open,BIOL 4908,C,Honours Research Thesis,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20827,Open,BIOL 5004,S,Advances Applied Biochemistry,.5,Seminar,No,Yes,,"May 12, 2025","May 23, 2025",Mon Tue Wed Thu Fri,08:05,16:55,Tory Building,132,,BIOL
+20827,Open,BIOL 5004,S,Advances Applied Biochemistry,.5,Seminar,No,Yes,,"May 12, 2025","May 23, 2025",Mon Tue Wed Thu Fri,08:05,16:55,Richcraft Hall,3320,,BIOL
+20066,Open,BIOL 5501,S,Directed Studies in Biology,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20068,Open,BIOL 5909,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20069,Open,BIOL 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL

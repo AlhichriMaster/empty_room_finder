@@ -1,0 +1,16 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21016,Open,GEOG 1020,A,"People, Places & Environments",.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:35,20:25,Tory Building,208,,GEOG
+21017,Open,GEOG 1020,A1,"People, Places & Environments",0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,16:35,17:25,Loeb Building,A410,,GEOG
+21018,Open,GEOG 1020,A2,"People, Places & Environments",0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,17:35,18:25,Loeb Building,A410,,GEOG
+21326,Open,GEOG 2200,A,Global Connections,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,GEOG
+21020,Open,GEOG 3000,A,Honours Field Course,.5,Field Course,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,Loeb Building,A410,,GEOG
+21021,Open,GEOG 3030,A,Regional Field Excursion,.5,Field Course,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20416,Open,GEOG 5107,S,Field Study & Method. Research,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+21022,Open,GEOG 5900,S,Graduate Tutorial,.5,Seminar,No,Yes,,"May 05, 2025","May 26, 2025",Mon Tue Wed Thu,09:05,11:55,Loeb Building,A237,,GEOG
+20417,Open,GEOG 5906,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20418,Open,GEOG 5909,S,M. A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+21023,Open,GEOG 6006,S,Geography of Environ. Change,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20419,Open,GEOG 6007,S,Geography of Environ. Change,.5,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20420,Open,GEOG 6906,S,Comprehensive Examination,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20421,Open,GEOG 6907,S,Comprehensive Examination,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20422,Open,GEOG 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG

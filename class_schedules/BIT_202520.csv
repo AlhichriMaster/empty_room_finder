@@ -1,0 +1,6 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20828,Open,BIT 1400,A,Intro to Progrming & Prob Solv,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,13:05,15:55,Azrieli Pavilion,132,,BIT
+20829,Open,BIT 1400,A1,Intro to Progrming & Prob Solv,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,13:05,15:55,Azrieli Pavilion,132,,BIT
+21208,Open,BIT 2400,A,Intermediate Programming,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:05,15:55,Azrieli Pavilion,132,,BIT
+21209,Open,BIT 2400,A1,Intermediate Programming,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,08:35,11:25,Azrieli Pavilion,132,,BIT
+20075,Open,BIT 4000,C,Directed Studies,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIT

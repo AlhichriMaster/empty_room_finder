@@ -1,0 +1,4 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21175,Open,TOMS 5302,V,Operations Management,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,TOMS
+21176,Open,TOMS 5303,P,Managing Projects,.25,Seminar,No,Yes,,"Jun 20, 2025","Jun 21, 2025",Fri Sat,08:35,17:25,Nicol Building,3040,,TOMS
+21430,Open,TOMS 5303,V,Managing Projects,.25,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,TOMS

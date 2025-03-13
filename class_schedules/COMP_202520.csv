@@ -1,0 +1,32 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20907,Open,COMP 1005,A,Introduc to Computer Science I,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMP
+20908,Open,COMP 1005,A1,Introduc to Computer Science I,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Wed,11:35,14:25,Minto Centre,5050,,COMP
+21245,Open,COMP 1006,A,Introdu to Computer Science II,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,13:35,16:25,Azrieli Theatre,102,,COMP
+21246,Open,COMP 1006,A1,Introdu to Computer Science II,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,16:35,17:55,Azrieli Theatre,102,,COMP
+20909,Open,COMP 1405,A,Intro to Computer Science I,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMP
+20910,Open,COMP 1405,A1,Intro to Computer Science I,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Wed,11:35,14:25,Minto Centre,5050,,COMP
+21247,Open,COMP 1406,A,Intro to Computer Science II,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,13:35,16:25,Azrieli Theatre,102,,COMP
+21248,Open,COMP 1406,A1,Intro to Computer Science II,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,16:35,17:55,Azrieli Theatre,102,,COMP
+20157,Open,COMP 1805,A,Discrete Structures I,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Wed,16:35,19:25,Azrieli Theatre,302,,COMP
+20158,Open,COMP 1805,A1,Discrete Structures I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Wed,19:35,20:25,Azrieli Theatre,302,,COMP
+20159,Open,COMP 1910,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20160,Open,COMP 1911,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20161,Open,COMP 2401,A,Intro to Systems Programming,.5,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Mon Wed,17:05,18:25,Azrieli Theatre,101,,COMP
+20162,Open,COMP 2401,A1,Intro to Systems Programming,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Wed,18:35,19:55,Tory Building,210,,COMP
+20163,Open,COMP 2401,A2,Intro to Systems Programming,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Wed,18:35,19:55,Tory Building,208,,COMP
+20911,Open,COMP 2402,A,Abstract Data Types/Algorithms,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,Minto Centre,5050,,COMP
+20164,Open,COMP 2910,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20165,Open,COMP 2911,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20166,Open,COMP 3910,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20167,Open,COMP 3911,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20169,Open,COMP 4901,A,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20170,Open,COMP 4905,A,Honours Project,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20173,Open,COMP 4910,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20174,Open,COMP 4911,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20175,Open,COMP 5901,A,Directed Studies (M.C.S.),.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20176,Open,COMP 5903,A,Grad Project (M.C.S),1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20177,Open,COMP 5905,A,M.C.S. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20179,Open,COMP 6901,A,Directed Studies (Ph.D.),.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20180,Open,COMP 6907,A,Doctoral Comprehensive,0,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20181,Open,COMP 6908,A,Doctoral Proposal,0,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20182,Open,COMP 6909,A,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP

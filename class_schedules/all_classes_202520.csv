@@ -1,0 +1,1076 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20778,Open,ACCT 5001,V,Financial Accounting,.25,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+21178,Open,ACCT 5002,V,Managerial Accounting,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+20779,Open,ACCT 5011,V,Financial Statement Analysis,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+20780,Open,ACCT 5012,V,Performance Measurement & Cont,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+20781,Open,ACCT 5013,V,Finan Rprt & Cntrl in Pblc Org,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+21179,Open,ACCT 5014,V,Governance and Accountability,.25,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ACCT
+20782,Open,ACCT 5120,A,Advanced Concepts,.5,Seminar,No,Yes,,"May 05, 2025","May 09, 2025",Tue Fri,09:05,11:55,Nicol Building,4040,,ACCT
+20782,Open,ACCT 5120,A,Advanced Concepts,.5,Seminar,No,Yes,,"May 12, 2025","May 16, 2025",Mon Wed,09:05,11:55,Nicol Building,4040,,ACCT
+20782,Open,ACCT 5120,A,Advanced Concepts,.5,Seminar,No,Yes,,"May 19, 2025","May 23, 2025",Tue Fri,09:05,11:55,Nicol Building,4040,,ACCT
+20782,Open,ACCT 5120,A,Advanced Concepts,.5,Seminar,No,Yes,,"May 26, 2025","Jun 17, 2025",Mon Wed,09:05,11:55,Nicol Building,4040,,ACCT
+20783,Open,ACCT 5120,B,Advanced Concepts,.5,Seminar,No,Yes,,"May 05, 2025","May 09, 2025",Tue Fri,13:05,15:55,Nicol Building,4040,,ACCT
+20783,Open,ACCT 5120,B,Advanced Concepts,.5,Seminar,No,Yes,,"May 12, 2025","May 16, 2025",Mon Wed,13:05,15:55,Nicol Building,4040,,ACCT
+20783,Open,ACCT 5120,B,Advanced Concepts,.5,Seminar,No,Yes,,"May 19, 2025","May 23, 2025",Tue Fri,13:05,15:55,Nicol Building,4040,,ACCT
+20783,Open,ACCT 5120,B,Advanced Concepts,.5,Seminar,No,Yes,,"May 26, 2025","Jun 17, 2025",Mon Wed,13:05,15:55,Nicol Building,4040,,ACCT
+20784,Open,ACCT 5121,A,Advanced Concepts II,.5,Seminar,No,Yes,,"May 05, 2025","May 09, 2025",Tue Fri,13:05,15:55,Nicol Building,3040,,ACCT
+20784,Open,ACCT 5121,A,Advanced Concepts II,.5,Seminar,No,Yes,,"May 12, 2025","May 16, 2025",Mon Wed,13:05,15:55,Nicol Building,3040,,ACCT
+20784,Open,ACCT 5121,A,Advanced Concepts II,.5,Seminar,No,Yes,,"May 19, 2025","May 23, 2025",Tue Fri,13:05,15:55,Nicol Building,3040,,ACCT
+20784,Open,ACCT 5121,A,Advanced Concepts II,.5,Seminar,No,Yes,,"May 26, 2025","Jun 17, 2025",Mon Wed,13:05,15:55,Nicol Building,3040,,ACCT
+20785,Open,ACCT 5121,B,Advanced Concepts II,.5,Seminar,No,Yes,,"May 05, 2025","May 09, 2025",Tue Fri,09:05,11:55,Nicol Building,3040,,ACCT
+20785,Open,ACCT 5121,B,Advanced Concepts II,.5,Seminar,No,Yes,,"May 12, 2025","May 16, 2025",Mon Wed,09:05,11:55,Nicol Building,3040,,ACCT
+20785,Open,ACCT 5121,B,Advanced Concepts II,.5,Seminar,No,Yes,,"May 19, 2025","May 23, 2025",Tue Fri,09:05,11:55,Nicol Building,3040,,ACCT
+20785,Open,ACCT 5121,B,Advanced Concepts II,.5,Seminar,No,Yes,,"May 26, 2025","Jun 17, 2025",Mon Wed,09:05,11:55,Nicol Building,3040,,ACCT
+20786,Open,ACCT 5122,A,Issues in Taxation,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu,09:05,11:55,Nicol Building,4040,,ACCT
+21180,Open,ACCT 5123,A,Advanced Taxation,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,09:05,11:55,Nicol Building,4040,,ACCT
+21181,Open,ACCT 5123,B,Advanced Taxation,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:05,15:55,Nicol Building,4040,,ACCT
+20787,Open,ACCT 5123,P,Advanced Taxation,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,18:05,20:55,Nicol Building,4040,,ACCT
+20788,Open,ACCT 5125,A,Advanced Assurance,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,08:35,11:25,Nicol Building,4020,,ACCT
+20789,Open,ACCT 5125,B,Advanced Assurance,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Nicol Building,4020,,ACCT
+20790,Open,ACCT 5128,A,Strategy for Prof. Accountants,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu,09:05,11:55,Nicol Building,4050,,ACCT
+20791,Open,ACCT 5128,B,Strategy for Prof. Accountants,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu,13:05,15:55,Nicol Building,4050,,ACCT
+21182,Open,ACCT 5129,A,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 03, 2025","Jul 03, 2025",Thu,09:05,15:55,Nicol Building,4010,,ACCT
+21182,Open,ACCT 5129,A,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 08, 2025","Jul 08, 2025",Tue,09:05,13:25,Nicol Building,4050,,ACCT
+21182,Open,ACCT 5129,A,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 10, 2025","Aug 14, 2025",Thu,09:05,13:25,Nicol Building,4050,,ACCT
+21183,Open,ACCT 5129,B,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 03, 2025","Jul 03, 2025",Thu,09:05,15:55,Nicol Building,4010,,ACCT
+21183,Open,ACCT 5129,B,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 08, 2025","Jul 08, 2025",Tue,09:05,13:25,Nicol Building,4040,,ACCT
+21183,Open,ACCT 5129,B,Professional Accting Cases I,.25,Lecture,No,Yes,,"Jul 10, 2025","Aug 14, 2025",Tue Thu,11:05,15:25,Nicol Building,4040,,ACCT
+21184,Open,ACCT 5130,A,Advanced Finance,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:05,15:55,Nicol Building,4050,,ACCT
+21185,Open,ACCT 5130,P,Advanced Finance,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Nicol Building,4050,,ACCT
+20792,Open,ACCT 5134,A,Advanced Integration I,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Wed,14:35,17:25,Nicol Building,4050,,ACCT
+20793,Open,ACCT 5134,P,Advanced Integration I,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Wed,18:05,20:55,Nicol Building,4050,,ACCT
+21186,Open,ACCT 5136,A,Advanced Integration II,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,08:35,14:25,Nicol Building,4020,,ACCT
+21186,Open,ACCT 5136,A,Advanced Integration II,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,14:35,17:25,Nicol Building,4020,,ACCT
+21187,Open,ACCT 5136,P,Advanced Integration II,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,17:25,Nicol Building,3040,,ACCT
+21187,Open,ACCT 5136,P,Advanced Integration II,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Sun Sat,08:35,14:25,Nicol Building,3040,,ACCT
+20794,Open,ACCT 5137,A,Professional Acctng Cases II,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue,11:35,14:25,Nicol Building,4020,,ACCT
+20794,Open,ACCT 5137,A,Professional Acctng Cases II,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Fri,08:35,14:25,Nicol Building,4020,,ACCT
+20795,Open,ACCT 5137,B,Professional Acctng Cases II,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue,14:35,17:25,Nicol Building,4020,,ACCT
+20795,Open,ACCT 5137,B,Professional Acctng Cases II,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Fri,08:35,14:25,Nicol Building,4020,,ACCT
+20001,Open,ACCT 5199,A,Internship,1,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ACCT
+21188,Open,AFRI 3100,A,African Studies Abroad: Sel Top,.5,Seminar,No,Yes,,"Jun 15, 2025","Jun 30, 2025",Time: Building: Room:,,,Room:,,,AFRI
+20796,Open,AFRI 3900,A,Placement,.5,Field Placement,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,AFRI
+21189,Open,AFRI 3900,B,Placement,.5,Field Placement,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,AFRI
+21190,Open,AFRI 5100,A,African Studies Abroad,.5,Seminar,No,No,,"Jun 15, 2025","Jun 30, 2025",Time: Building: Room:,,,Room:,,,AFRI
+20797,Open,AFRI 5700,A,Dir Reading in African Studies,.5,Directed Studies,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,AFRI
+20798,Open,AFRI 5900,A,Placement,.5,Field Placement,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,AFRI
+21191,Open,AFRI 5900,B,Placement,.5,Field Placement,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,AFRI
+20820,Open,ASLA 1010,A,First-Year ASL I,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,09:35,13:25,St. Patrick's Building,303,,ASLA
+21203,Open,ASLA 1020,A,First-Year ASL II,.5,Seminar,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,09:35,13:25,St. Patrick's Building,303,,ASLA
+20799,Open,ANTH 1001,A,Introduction to Anthropology,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,ON,LINE,,ANTH
+20800,Open,ANTH 2550,B,Religion and Society,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,ANTH
+20801,Open,ANTH 2850,A,Development & Underdevelopment,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,ON,LINE,,ANTH
+20802,Open,ANTH 2915,A,Course-Related Tut. in Anthro.,.5,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ANTH
+21192,Open,ANTH 2925,A,Course-Related Tut. in Anthro.,.5,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+21193,Open,ANTH 3027,A,Stud in Globalization & Human,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,ANTH
+21194,Open,ANTH 3045,A,Child Childhood Global World,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,ON,LINE,,ANTH
+20803,Open,ANTH 3915,A,Course-Related Tut. in Anthro.,.5,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ANTH
+21195,Open,ANTH 3925,A,Course-Related Tut. in Anthrop,.5,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+20804,Open,ANTH 4225,B,ST: Race and Medicine,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,ANTH
+20027,Open,ANTH 4900,B,Hon. Res. Paper in Anthro.,1,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+20805,Open,ANTH 4915,A,Tutorial in Anthropology,.5,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ANTH
+21196,Open,ANTH 4925,A,Tutorial in Anthropology,.5,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+20806,Open,ANTH 5708,B,ST: Race & Medicine,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,ANTH
+20028,Open,ANTH 5900,S,Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+20029,Open,ANTH 5900,U,Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+20030,Open,ANTH 5907,S,Placement in Anthropology,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+20031,Open,ANTH 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+20032,Open,ANTH 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+20033,Open,ANTH 6900,S,Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+20034,Open,ANTH 6909,A,Ph.D Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ANTH
+20002,Open,ALDS 3900,A,Independent Study,1,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20003,Open,ALDS 3901,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20004,Open,ALDS 4900,A,Independent Study,1,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20005,Open,ALDS 4901,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20006,Open,ALDS 4908,A,Hons Proj Applied Ling & Disc,1,Honours Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20012,Open,ALDS 5907,S,Tutorial in ALDS,1,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20015,Open,ALDS 5908,F,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20017,Open,ALDS 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20018,Open,ALDS 6105,S,Dir Reading Ling & Disc Studies,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20019,Open,ALDS 6109,S,Doc Project I: Literatur Review,.5,Research Project,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20020,Open,ALDS 6200,S,Praxis in ALDS,1,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20021,Open,ALDS 6209,S,Doctoral Proj II: Thesis Propos,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20022,Open,ALDS 6211,S,Praxis in ALDS I,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20023,Open,ALDS 6212,S,Praxis in ALDS II,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20024,Open,ALDS 6309,S,Project III: Research Report,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20025,Open,ALDS 6909,S,Ph.D. Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ALDS
+20041,Open,ARCT 5909,S,M.A.S. Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARCT
+20810,Open,ARCS 5033,S,M.Arch. 1 - Studio III,1,Studio,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed Fri,10:05,16:55,Architecture Building,404,,ARCS
+21454,Open,ARCC 4200,A,Structural Morphology,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,09:05,11:55,Architecture Building,209,,ARCC
+20807,Open,ARCC 4200,B,Structural Morphology,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu Fri,10:05,16:55,Architecture Building,204,,ARCC
+21455,Open,ARCC 5000,A,Dir Stud in Arch & Technology,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,09:05,11:55,Architecture Building,209,,ARCC
+20808,Open,ARCC 5000,B,Dir Stud in Arch & Technology,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu Fri,10:05,16:55,Architecture Building,204,,ARCC
+20809,Open,ARCC 5098,A,Building Technology III,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,Nicol Building,3030,,ARCC
+20040,Open,ARCN 5909,S,Thesis - Dir Res Studio (DRS),0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARCN
+20035,Open,ARCH 5100,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARCH
+20036,Open,ARCH 6907,S,PhD Comprehensive Examinati,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARCH
+20037,Open,ARCH 6908,S,PhD Proposal Examination,1,Practicum,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARCH
+20038,Open,ARCH 6909,S,PhD Dissertation,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARCH
+20813,Open,ARTH 1101,A,Art and Society: 1300 to Pres,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ARTH
+21469,Open,ARTH 3809,A,Architecture of Roman Baroque,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Mackenzie Building,3275,,ARTH
+20815,Open,ARTH 3900,A,Practicum in AAH,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ARTH
+21199,Open,ARTH 3900,B,Practicum in AAH,.5,Practicum,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+21470,Open,ARTH 4809,A,Architecture of Roman Baroque,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Mackenzie Building,3275,,ARTH
+20817,Open,ARTH 4900,A,Directed Readings and Research,.5,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ARTH
+21200,Open,ARTH 4900,B,Directed Readings and Research,.5,Independent Study,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20042,Open,ARTH 4909,A,Honours Research Project,1,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20818,Open,ARTH 5011,S,Graduate Practicum,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ARTH
+21201,Open,ARTH 5011,T,Graduate Practicum,.5,Practicum,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20819,Open,ARTH 5012,A,Directed Readings & Research,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ARTH
+21202,Open,ARTH 5012,B,Directed Readings & Research,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20043,Open,ARTH 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20044,Open,ARTH 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20046,Open,BIOC 2400,A,Independent Research I,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20047,Open,BIOC 3400,A,Independent Research II,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20049,Open,BIOC 4901,A,Directed Studies,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20050,Open,BIOC 4901,B,Directed Studies,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20051,Open,BIOC 4907,A,Honours Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20052,Open,BIOC 4907,B,Honours Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20053,Open,BIOC 4908,A,Research Project,1,Research Project,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20054,Open,BIOC 4908,B,Research Project,1,Research Project,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20055,Open,BIOC 4908,C,Research Project,1,Research Project,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+21205,Open,BIOL 1010,V,Biotechnology and Society,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BIOL
+21206,Open,BIOL 1902,V,Natural History,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BIOL
+20825,Open,BIOL 2303,A,Microbiology,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BIOL
+20056,Open,BIOL 3605,A,Field Course I,.5,Field Course,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20057,Open,BIOL 3606,A,Field Course II,.5,Field Course,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20058,Open,BIOL 3901,A,Research Proposal,.5,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20060,Open,BIOL 4901,A,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20061,Open,BIOL 4901,B,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20062,Open,BIOL 4907,A,Honours Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20063,Open,BIOL 4908,A,Honours Research Thesis,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20064,Open,BIOL 4908,B,Honours Research Thesis,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20065,Open,BIOL 4908,C,Honours Research Thesis,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20827,Open,BIOL 5004,S,Advances Applied Biochemistry,.5,Seminar,No,Yes,,"May 12, 2025","May 23, 2025",Mon Tue Wed Thu Fri,08:05,16:55,Tory Building,132,,BIOL
+20827,Open,BIOL 5004,S,Advances Applied Biochemistry,.5,Seminar,No,Yes,,"May 12, 2025","May 23, 2025",Mon Tue Wed Thu Fri,08:05,16:55,Richcraft Hall,3320,,BIOL
+20066,Open,BIOL 5501,S,Directed Studies in Biology,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20068,Open,BIOL 5909,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20069,Open,BIOL 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOL
+20070,Open,BIOM 5106,O,"Reliability, Quality, Safety",.5,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOM
+21448,Open,BIOM 5403,O,Medical Informatics & Telemedi,.5,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOM
+20071,Open,BIOM 5801,S,Clinical Engineering Internshp,1,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOM
+20072,Open,BIOM 5909,S,M.A.Sc. Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOM
+20073,Open,BIOM 6909,S,Ph.D. Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOM
+20076,Open,BLDG 5900,S,M.Eng. Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20077,Open,BLDG 5906,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20078,Open,BLDG 5909,S,M.A.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20079,Open,BLDG 6901,S,Thesis Proposal,.5,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20080,Open,BLDG 6906,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20081,Open,BLDG 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20082,Open,BUSI 1001,R,Financial Accounting,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20083,Open,BUSI 1002,R,Management Accounting,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20830,Open,BUSI 1401,A,Foundations of Info Systems,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Nicol Building,3020,,BUSI
+20831,Open,BUSI 1800,A,Introduction to Business,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Wed Fri,08:35,10:25,ON,LINE,,BUSI
+20832,Open,BUSI 1800,A01,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon,12:35,13:25,Nicol Building,1020,,BUSI
+20833,Open,BUSI 1800,A02,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon,13:35,14:25,Nicol Building,1020,,BUSI
+20834,Open,BUSI 1800,A03,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Wed,11:35,12:25,Nicol Building,4050,,BUSI
+20835,Open,BUSI 1800,A04,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Fri,11:35,12:25,Nicol Building,3038,,BUSI
+20836,Open,BUSI 1800,A05,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue,11:35,12:25,Nicol Building,1020,,BUSI
+20837,Open,BUSI 1800,A06,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue,18:35,19:25,Nicol Building,4040,,BUSI
+20838,Open,BUSI 1800,A07,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon,18:35,19:25,Nicol Building,1020,,BUSI
+20839,Open,BUSI 1800,A08,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon,13:35,14:25,ON,LINE,,BUSI
+20840,Open,BUSI 1800,A09,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon,14:35,15:25,ON,LINE,,BUSI
+20841,Open,BUSI 1800,A10,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Wed,13:35,14:25,ON,LINE,,BUSI
+20842,Open,BUSI 1800,A11,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue,11:35,12:25,ON,LINE,,BUSI
+20843,Open,BUSI 1800,A12,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue,18:35,19:25,ON,LINE,,BUSI
+20844,Open,BUSI 1800,A13,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Fri,11:35,12:25,ON,LINE,,BUSI
+20845,Open,BUSI 1800,A14,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Thu,14:35,15:25,ON,LINE,,BUSI
+20846,Open,BUSI 1800,A15,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Thu,10:35,11:25,ON,LINE,,BUSI
+20847,Open,BUSI 1995,A,Employability Passport I,0,Other,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon,14:35,17:25,ON,LINE,,BUSI
+20084,Open,BUSI 2001,R,Intermediate Accounting I,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20085,Open,BUSI 2002,R,Intermediate Accounting II,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20848,Open,BUSI 2101,A,Organizational Behaviour,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Nicol Building,4020,,BUSI
+20849,Open,BUSI 2208,A,Introduction to Marketing,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,Nicol Building,3030,,BUSI
+20850,Open,BUSI 2301,A,Intro to Supply Chains,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,Nicol Building,4030,,BUSI
+21212,Open,BUSI 2401,A,Intro Data Analytics,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,14:35,17:25,Nicol Building,4030,,BUSI
+20851,Open,BUSI 2501,A,Business Finance,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Nicol Building,3030,,BUSI
+20087,Open,BUSI 2601,A,Business Law,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Thu,14:35,17:25,Nicol Building,4020,,BUSI
+21214,Open,BUSI 2701,A,Fundamentals of Intl Business,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Nicol Building,3030,,BUSI
+20088,Open,BUSI 2800,A,Entrepreneurship,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Thu,18:05,20:55,Nicol Building,3020,,BUSI
+20089,Open,BUSI 3001,R,Acc for Business Combinations,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20090,Open,BUSI 3007,R,Auditing I,.5,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20091,Open,BUSI 3007,R01,Auditing I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Mon,18:05,18:55,ON,LINE,,BUSI
+20092,Open,BUSI 3007,R02,Auditing I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,18:05,18:55,ON,LINE,,BUSI
+20093,Open,BUSI 3007,R03,Auditing I,0,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Wed,13:05,13:55,Nicol Building,1020,,BUSI
+20853,Open,BUSI 3008,R,Intermediate Mgmnt Acctng and,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20094,Open,BUSI 3040,R,Data Analytics in Accounting,.5,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20854,Open,BUSI 3102,A,Human Resources Management,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Tory Building,238,,BUSI
+21215,Open,BUSI 3309,A,Project Management,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Nicol Building,3020,,BUSI
+20095,Open,BUSI 3701,A,Practicum in Int. Business,.5,Field Course,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20096,Open,BUSI 3702,A,Practicum in Int. Business,.5,Field Course,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20097,Open,BUSI 3800,A,Sprott Student Consulting I,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Mon,14:35,16:25,Nicol Building,3030,,BUSI
+20855,Open,BUSI 3995,A,Career Preparation III,0,Other,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Wed,14:35,17:25,ON,LINE,,BUSI
+21216,Open,BUSI 4008,R,Mgment Control Systems,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+21217,Open,BUSI 4008,R01,Mgment Control Systems,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon,18:05,18:55,ON,LINE,,BUSI
+21218,Open,BUSI 4008,R02,Mgment Control Systems,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue,18:05,18:55,Nicol Building,4040,,BUSI
+20856,Open,BUSI 4601,A,Business Ethics,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Nicol Building,3040,,BUSI
+20099,Open,BUSI 4609,A,Strategic Management,.5,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Tue,18:05,20:55,Nicol Building,3040,,BUSI
+20100,Open,BUSI 4800,A,SSC II,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Mon,14:35,16:25,Nicol Building,3050,,BUSI
+20101,Open,BUSI 4904,A,Directed Studies I,1,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20102,Open,BUSI 4905,A,Directed Studies II,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+21219,Open,BUSI 4905,B,Directed Studies II,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20103,Open,BUSI 4906,A,Research Project for Business,1,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+21220,Open,BUSI 5801,V,Statistics for Managers,.25,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20104,Open,BUSI 5802,N,Business Ethics,.25,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20857,Open,BUSI 5802,V,Business Ethics,.25,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20105,Open,BUSI 5989,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20106,Open,BUSI 5995,P,Entrepreneurship,.5,Lecture,No,No,,"May 09, 2025","May 10, 2025",Fri Sat,08:35,17:25,Nicol Building,4030,,BUSI
+20106,Open,BUSI 5995,P,Entrepreneurship,.5,Lecture,No,No,,"May 23, 2025","May 24, 2025",Fri Sat,08:35,17:25,Nicol Building,4030,,BUSI
+20858,Open,BUSI 5995,V,Entrepreneurship,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20107,Open,BUSI 5997,A,Project Based Service Learning,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Mon,14:35,16:25,Nicol Building,3050,,BUSI
+21221,Open,BUSI 5998,T,MBA Skills Workshop,0,Workshop,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20859,Open,BUSI 5998,V,MBA Skills Workshop,0,Workshop,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20108,Open,BUSI 5999,S,Internship,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20109,Open,BUSI 6900,S,Directed Readings,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20110,Open,BUSI 6907,S,Ph.D. Thesis Tutorial,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20111,Open,BUSI 6908,S,Ph.D. Comprehensives,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20112,Open,BUSI 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20114,Open,CDNS 4800,A,Internship Practicum,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20863,Open,CDNS 4801,A,Internship/Practicum,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CDNS
+21222,Open,CDNS 4802,A,Internship/Practicum,.5,Practicum,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20864,Open,CDNS 4905,A,Directed Studies I,.5,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CDNS
+21223,Open,CDNS 4906,A,Directed Studies II,.5,Independent Study,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20115,Open,CDNS 4907,A,Directed Studies III,1,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20116,Open,CDNS 5800,S,Internship/Practicum,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20865,Open,CDNS 5801,S,Internship/Practicum,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CDNS
+21224,Open,CDNS 5801,U,Internship/Practicum,.5,Practicum,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20117,Open,CDNS 5900,S,Directed Studies,1,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20866,Open,CDNS 5901,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CDNS
+21225,Open,CDNS 5901,U,Directed Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20118,Open,CDNS 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20119,Open,CDNS 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20867,Open,CDNS 6901,S,Ph.D. Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CDNS
+21226,Open,CDNS 6902,S,Ph.D. Tutorial,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20120,Open,CDNS 6905,S,Ph.D. Comprehensive Exam,.5,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20121,Open,CDNS 6907,S,Ph.D. Comprehensive Exam,.5,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20122,Open,CDNS 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20869,Open,CHEM 1001,A,General Chemistry I,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Steacie Building,103,,CHEM
+20871,Open,CHEM 1001,A2,General Chemistry I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,12:35,15:25,Steacie Building,204A,,CHEM
+20872,Open,CHEM 1001,ATU,General Chemistry I,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Fri,10:05,11:55,Steacie Building,103,,CHEM
+20873,Open,CHEM 1001,G1,General Chemistry I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CHEM
+21228,Open,CHEM 1002,A,General Chemistry II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,14:25,Steacie Building,103,,CHEM
+21230,Open,CHEM 1002,A2,General Chemistry II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,12:35,15:25,Steacie Building,204A,,CHEM
+21231,Open,CHEM 1002,ATU,General Chemistry II,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Fri,10:05,11:55,Steacie Building,103,,CHEM
+21232,Open,CHEM 1002,G1,General Chemistry II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20880,Open,CHEM 2203,A,Organic Chemistry I,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Steacie Building,103,,CHEM
+20882,Open,CHEM 2203,A2,Organic Chemistry I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,12:35,15:25,Steacie Building,204D,,CHEM
+20883,Open,CHEM 2203,G1,Organic Chemistry I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CHEM
+21233,Open,CHEM 2204,A,Organic Chemistry II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,08:35,11:25,Steacie Building,103,,CHEM
+21235,Open,CHEM 2204,A2,Organic Chemistry II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,12:35,15:25,Steacie Building,204D,,CHEM
+21236,Open,CHEM 2204,G1,Organic Chemistry II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20884,Open,CHEM 2207,A,Intro: Organic Chemistry I,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Steacie Building,103,,CHEM
+21237,Open,CHEM 2208,A,Intro: Organic Chemistry II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,08:35,11:25,Steacie Building,103,,CHEM
+20138,Open,CHEM 4907,A,Hons Essay Rsrch Proposal,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20139,Open,CHEM 4908,A,Research Project and Seminar,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20140,Open,CHEM 5802,S,Seminar II,0,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20885,Open,CHEM 5806,A,Advances Applied Biochemistry,.5,Seminar,No,No,,"May 12, 2025","May 23, 2025",Mon Tue Wed Thu Fri,08:05,16:55,Tory Building,132,,CHEM
+20885,Open,CHEM 5806,A,Advances Applied Biochemistry,.5,Seminar,No,No,,"May 12, 2025","May 23, 2025",Mon Tue Wed Thu Fri,08:05,16:55,Richcraft Hall,3320,,CHEM
+20141,Open,CHEM 5909,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20142,Open,CHEM 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+21438,Open,CHST 2011,A,Children's Literature,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,14:25,ON,LINE,,CHST
+20886,Open,CHST 3303,A,Childrens' Rights,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,ON,LINE,,CHST
+21238,Open,CHST 3304,A,Disability and Childhood,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,14:25,ON,LINE,,CHST
+21239,Open,CHST 3501,A,"Sexuality, Gender & Childhood",.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,Loeb Building,A720,,CHST
+20887,Open,CHST 4001,B,Advancd Special Topics in CHST,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,ON,LINE,,CHST
+20888,Open,CHST 4900,A,Independent Study,.5,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CHST
+20892,Open,CIVE 2200,A,Mechanics of Solids I,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,08:35,11:25,Mackenzie Building,3275,,CIVE
+20893,Open,CIVE 2200,A1,Mechanics of Solids I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Minto Centre,1084,,CIVE
+20893,Open,CIVE 2200,A1,Mechanics of Solids I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Mackenzie Building,3190,,CIVE
+20894,Open,CIVE 2200,A2,Mechanics of Solids I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Minto Centre,1084,,CIVE
+20894,Open,CIVE 2200,A2,Mechanics of Solids I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Mackenzie Building,3190,,CIVE
+20144,Open,CIVE 4917,A,Undergraduate Directed Study,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20145,Open,CIVE 5900,S,Civil Engineering Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20146,Open,CIVE 5906,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20147,Open,CIVE 5909,S,M.A.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20148,Open,CIVE 6902,S,PhD. Comprehensive Examination,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20149,Open,CIVE 6903,S,Ph.D. Proposal,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20150,Open,CIVE 6906,S,Directed Studies 2,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20151,Open,CIVE 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+21461,Open,CIVJ 5184,O,Construction Cost Estimating,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,Room:,,,CIVJ
+21456,Open,CIVJ 5188,O,Loads on structures,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Wed,10:05,12:55,Room:,,,CIVJ
+21457,Open,CIVJ 5207,O,Sustainable Resilient Infrastu,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,19:05,21:55,Room:,,,CIVJ
+21459,Open,CIVJ 6001,O,Mech & Desgn Struc adv composite,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Wed,14:35,17:25,Room:,,,CIVJ
+21460,Open,CIVJ 6003,O,Instrum & ExperimDesign Civil En,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue Thu,17:05,19:55,Room:,,,CIVJ
+21462,Open,CIVJ 6004,O,Artificial intell.Civil & Envi S,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Fri,14:35,17:25,Room:,,,CIVJ
+21458,Open,CIVJ 6012,O,Geographic information system,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu Fri,17:35,20:25,Room:,,,CIVJ
+20901,Open,CLCV 1003,A,Survey of Roman Civilization,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,CLCV
+20152,Open,CLCV 2305,W,Ancient Science and Technology,1,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,CLCV
+20902,Open,CLCV 2500,A,Classical Mythology,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,CLCV
+20868,Open,CGSC 1001,A,Mysteries of the Mind,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,ON,LINE,,CGSC
+21227,Open,CGSC 2001,B,Theories in Cognitive Science,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,17:35,20:25,ON,LINE,,CGSC
+20124,Open,CGSC 4801,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20125,Open,CGSC 4802,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20126,Open,CGSC 4908,A,Honours Thesis,1,Independent Study,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20127,Open,CGSC 4908,B,Honours Thesis,1,Independent Study,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20128,Open,CGSC 4908,C,Honours Thesis,1,Independent Study,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20129,Open,CGSC 5907,S,Independent Research,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20130,Open,CGSC 5908,S,Research Project,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20131,Open,CGSC 5909,S,M.Cog.Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20132,Open,CGSC 6002,S,Methodology Rotation I,.5,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20133,Open,CGSC 6003,S,Methodology Rotation II,.5,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20134,Open,CGSC 6901,S,Directed Studies I,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20135,Open,CGSC 6902,S,Directed Studies II,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20136,Open,CGSC 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20860,Open,CCDP 2100,A,Communication Skills for B.Eng,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,08:35,11:25,ON,LINE,,CCDP
+20861,Open,CCDP 2100,B,Communication Skills for B.Eng,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,14:35,17:25,Richcraft Hall,3112,,CCDP
+20862,Open,CCDP 2100,C,Communication Skills for B.Eng,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,18:05,20:55,ON,LINE,,CCDP
+20113,Open,CCDP 2100,D,Communication Skills for B.Eng,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue,18:05,20:55,ON,LINE,,CCDP
+20912,Open,COMS 1001,S,Found in Comm & Media Studies,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMS
+20913,Open,COMS 2003,S,Th Found in Comm & Med St,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMS
+21249,Open,COMS 2004,A,Intro to Comm Research,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMS
+20914,Open,COMS 3001,S,Quantitative Res in Comm,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMS
+21250,Open,COMS 3002,S,Qualitative Res in Comm,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMS
+21251,Open,COMS 4502,S,Storytelling in the Digitl Age,.5,Workshop,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,Richcraft Hall,3112,,COMS
+20915,Open,COMS 5808,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,COMS
+21252,Open,COMS 5808,U,Directed Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20184,Open,COMS 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20185,Open,COMS 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20916,Open,COMS 6010,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,COMS
+21253,Open,COMS 6010,U,Directed Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20186,Open,COMS 6900,S,Comprehensive Examination I,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20187,Open,COMS 6901,S,Comprehensive Examination II,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20188,Open,COMS 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20907,Open,COMP 1005,A,Introduc to Computer Science I,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMP
+20908,Open,COMP 1005,A1,Introduc to Computer Science I,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Wed,11:35,14:25,Minto Centre,5050,,COMP
+21245,Open,COMP 1006,A,Introdu to Computer Science II,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,13:35,16:25,Azrieli Theatre,102,,COMP
+21246,Open,COMP 1006,A1,Introdu to Computer Science II,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,16:35,17:55,Azrieli Theatre,102,,COMP
+20909,Open,COMP 1405,A,Intro to Computer Science I,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMP
+20910,Open,COMP 1405,A1,Intro to Computer Science I,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Wed,11:35,14:25,Minto Centre,5050,,COMP
+21247,Open,COMP 1406,A,Intro to Computer Science II,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,13:35,16:25,Azrieli Theatre,102,,COMP
+21248,Open,COMP 1406,A1,Intro to Computer Science II,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,16:35,17:55,Azrieli Theatre,102,,COMP
+20157,Open,COMP 1805,A,Discrete Structures I,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Wed,16:35,19:25,Azrieli Theatre,302,,COMP
+20158,Open,COMP 1805,A1,Discrete Structures I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Wed,19:35,20:25,Azrieli Theatre,302,,COMP
+20159,Open,COMP 1910,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20160,Open,COMP 1911,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20161,Open,COMP 2401,A,Intro to Systems Programming,.5,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Mon Wed,17:05,18:25,Azrieli Theatre,101,,COMP
+20162,Open,COMP 2401,A1,Intro to Systems Programming,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Wed,18:35,19:55,Tory Building,210,,COMP
+20163,Open,COMP 2401,A2,Intro to Systems Programming,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Wed,18:35,19:55,Tory Building,208,,COMP
+20911,Open,COMP 2402,A,Abstract Data Types/Algorithms,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,Minto Centre,5050,,COMP
+20164,Open,COMP 2910,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20165,Open,COMP 2911,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20166,Open,COMP 3910,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20167,Open,COMP 3911,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20169,Open,COMP 4901,A,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20170,Open,COMP 4905,A,Honours Project,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20173,Open,COMP 4910,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20174,Open,COMP 4911,A,Internship,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20175,Open,COMP 5901,A,Directed Studies (M.C.S.),.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20176,Open,COMP 5903,A,Grad Project (M.C.S),1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20177,Open,COMP 5905,A,M.C.S. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20179,Open,COMP 6901,A,Directed Studies (Ph.D.),.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20180,Open,COMP 6907,A,Doctoral Comprehensive,0,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20181,Open,COMP 6908,A,Doctoral Proposal,0,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20182,Open,COMP 6909,A,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMP
+20917,Open,CRCJ 1000,A,Intro Criminol & Criminal Justic,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,CRCJ
+21254,Open,CRCJ 2200,B,Contemp. Issues in Crim & CJ,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,CRCJ
+20918,Open,CRCJ 3201,A,Green Criminology,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,ON,LINE,,CRCJ
+20153,Open,CLMD 6901,S,Directed Readings in Cultural,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CLMD
+20154,Open,CLMD 6907,S,Comprehensive I,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CLMD
+20155,Open,CLMD 6908,S,Comprehensive II,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CLMD
+20156,Open,CLMD 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CLMD
+20189,Open,CURA 5011,S,Curatorial Studies Practicum 1,.5,Practicum,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CURA
+20190,Open,CURA 5012,S,Curatorial Studies Practicum 2,.5,Practicum,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CURA
+21255,Open,DATA 5000,V,Data Science Seminar,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,DATA
+20192,Open,DATA 5908,A,Project - MSc,1.5,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20193,Open,DATA 5909,A,Thesis - MSc,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20194,Open,DATA 5918,A,Project - MIT,1.5,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20195,Open,DATA 5919,A,Thesis - MIT,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20196,Open,DATA 5928,A,Project - MEng,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20197,Open,DATA 5929,A,Thesis - MASc,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20198,Open,DATA 5939,A,Thesis - MCS,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20199,Open,DATA 6909,A,Thesis - PhD,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20919,Open,DIGH 2705,A,Pop. Culture in the Dig. Age,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,ON,LINE,,DIGH
+20989,Open,ERTH 2401,S,Dinosaurs,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Tue Wed Thu,10:05,11:25,ON,LINE,,ERTH
+20355,Open,ERTH 5909,S,M.Sc. Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ERTH
+20356,Open,ERTH 6908,A,Ph.D. Comprehensive Examinatio,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ERTH
+20357,Open,ERTH 6909,S,Ph.D. Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ERTH
+20920,Open,ECON 1001,S,Intro to Microeconomics,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,ECON
+20921,Open,ECON 1001,S01,Intro to Microeconomics,0,Discussion Group,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECON
+20922,Open,ECON 1001,S02,Intro to Microeconomics,0,Discussion Group,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECON
+21256,Open,ECON 1002,S,Intro to Macroeconomics,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,ECON
+21257,Open,ECON 1002,S01,Intro to Macroeconomics,0,Discussion Group,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECON
+21258,Open,ECON 1002,S02,Intro to Macroeconomics,0,Discussion Group,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECON
+20923,Open,ECON 2030,A,Interm MicreconII: Consum & Equil,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,ECON
+20924,Open,ECON 2030,A01,Interm MicreconII: Consum & Equil,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,16:35,17:25,ON,LINE,,ECON
+20925,Open,ECON 2102,A,Intermediate Macroeconomics I,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+20926,Open,ECON 2102,A01,Intermediate Macroeconomics I,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,15:05,16:25,ON,LINE,,ECON
+21259,Open,ECON 2220,A,Introductory Econometrics,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+21260,Open,ECON 2220,A01,Introductory Econometrics,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,16:05,17:25,ON,LINE,,ECON
+21261,Open,ECON 3509,A,Dev Planning & Project Eval,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,ECON
+20927,Open,ECON 3602,A,Int'l Monetary Problems,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+20313,Open,ECON 4880,S,Economics of Immigration,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+21262,Open,ECON 4905,A,Honours Capstone Seminar,.5,Seminar,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+21443,Open,ECON 5065,S,Selected Topics Immigration,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ECON
+20320,Open,ECON 5902,S,Internship Placement,.5,Field Placement,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20321,Open,ECON 5906,S,Directed Research,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20322,Open,ECON 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20323,Open,ECON 6904,S,Directed Readings,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20324,Open,ECON 6907,S,Thesis Workshop I,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20325,Open,ECON 6908,S,Thesis Workshop II,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+20326,Open,ECON 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ECON
+21447,Open,EACJ 5006,P,Topics in Electronics I,.5,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EACJ
+20968,Open,ELEC 2501,A,Circuits and Signals,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Mackenzie Building,4499,,ELEC
+20969,Open,ELEC 2501,L01,Circuits and Signals,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Thu,11:35,14:25,Mackenzie Building,4195,,ELEC
+20971,Open,ELEC 2501,P01,Circuits and Signals,0,Problem Analysis,No,No,,"May 05, 2025","Jun 17, 2025",Tue,11:35,14:25,Mackenzie Building,4332,,ELEC
+21295,Open,ELEC 2507,A,Electronics I,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,20:25,Mackenzie Building,4499,,ELEC
+21296,Open,ELEC 2507,L01,Electronics I,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Thu,11:35,14:25,Mackenzie Building,4195,,ELEC
+21298,Open,ELEC 2507,P01,Electronics I,0,Problem Analysis,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue,11:35,14:25,Mackenzie Building,3275,,ELEC
+21300,Open,ELEC 3509,A,Electronics II,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,Mackenzie Building,4499,,ELEC
+21301,Open,ELEC 3509,L01,Electronics II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,14:35,17:25,Mackenzie Building,4275,,ELEC
+20973,Open,ELEC 3909,A,Electromagnetic Waves,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Mackenzie Building,4332,,ELEC
+20974,Open,ELEC 3909,A1,Electromagnetic Waves,0,Problem Analysis,No,No,,"May 05, 2025","Jun 17, 2025",Thu,11:35,14:25,Minto Centre,6030,,ELEC
+20330,Open,ELEC 5900,S,Engineering Project I,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ELEC
+20331,Open,ELEC 5906,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ELEC
+20332,Open,ELEC 5909,S,M.A.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ELEC
+20333,Open,ELEC 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ELEC
+20928,Open,ECOR 1041,S,Computation and Programming,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,09:55,Azrieli Theatre,302,,ECOR
+20930,Open,ECOR 1041,S2,Computation and Programming,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Fri,14:35,17:25,Nicol Building,4020,,ECOR
+21263,Open,ECOR 1041,T,Computation and Programming,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,08:35,09:55,Azrieli Theatre,302,,ECOR
+21265,Open,ECOR 1041,T2,Computation and Programming,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Thu,08:35,11:25,Southam Hall,502,,ECOR
+20932,Open,ECOR 1042,S,Data Management,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,10:05,11:25,Azrieli Theatre,302,,ECOR
+20933,Open,ECOR 1042,S1,Data Management,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon,08:35,11:25,Nicol Building,3020,,ECOR
+20934,Open,ECOR 1042,S2,Data Management,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Wed,11:35,14:25,Nicol Building,4030,,ECOR
+20935,Open,ECOR 1042,S3,Data Management,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Fri,11:35,14:25,Nicol Building,3030,,ECOR
+21267,Open,ECOR 1042,T,Data Management,.25,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,10:05,11:25,Azrieli Theatre,302,,ECOR
+21268,Open,ECOR 1042,T1,Data Management,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Wed,11:35,14:25,Southam Hall,502,,ECOR
+21269,Open,ECOR 1042,T2,Data Management,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Fri,08:35,11:25,Nicol Building,4030,,ECOR
+21270,Open,ECOR 1042,T3,Data Management,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue,08:35,11:25,Southam Hall,502,,ECOR
+20936,Open,ECOR 1043,S,Circuits,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,08:35,09:55,Azrieli Theatre,302,,ECOR
+20937,Open,ECOR 1043,S1,Circuits,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Fri,08:35,11:25,Canal Building,4301,,ECOR
+20938,Open,ECOR 1043,S2,Circuits,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Wed,14:35,17:25,Canal Building,4301,,ECOR
+21271,Open,ECOR 1043,T,Circuits,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,16:05,17:25,Azrieli Theatre,102,,ECOR
+21272,Open,ECOR 1043,T1,Circuits,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Wed,11:35,14:25,Canal Building,4301,,ECOR
+21273,Open,ECOR 1043,T2,Circuits,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon,11:35,14:25,Canal Building,4301,,ECOR
+20940,Open,ECOR 1044,S,Mechatronics,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,10:05,11:25,Azrieli Theatre,302,,ECOR
+20941,Open,ECOR 1044,S1,Mechatronics,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu,11:35,14:25,Canal Building,4301,,ECOR
+20942,Open,ECOR 1044,S2,Mechatronics,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon,11:35,14:25,Canal Building,4301,,ECOR
+21275,Open,ECOR 1044,T,Mechatronics,.25,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,16:05,17:25,Azrieli Theatre,302,,ECOR
+21276,Open,ECOR 1044,T1,Mechatronics,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Fri,11:35,14:25,Canal Building,4301,,ECOR
+21277,Open,ECOR 1044,T2,Mechatronics,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Thu,11:35,14:25,Canal Building,4301,,ECOR
+20944,Open,ECOR 1045,S,Statics,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,16:05,17:25,Minto Centre,5050,,ECOR
+20945,Open,ECOR 1045,S1,Statics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Fri,14:35,17:25,Mackenzie Building,3328,,ECOR
+20947,Open,ECOR 1045,S3,Statics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon,08:35,11:25,Mackenzie Building,3328,,ECOR
+21279,Open,ECOR 1045,T,Statics,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21280,Open,ECOR 1045,T1,Statics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21281,Open,ECOR 1045,T2,Statics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21282,Open,ECOR 1045,T3,Statics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+20948,Open,ECOR 1046,S,Mechanics,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,17:35,18:55,Azrieli Theatre,101,,ECOR
+20949,Open,ECOR 1046,S1,Mechanics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Wed,08:35,11:25,Canal Building,4111,,ECOR
+20951,Open,ECOR 1046,S3,Mechanics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Fri,08:35,11:25,Canal Building,4111,,ECOR
+21283,Open,ECOR 1046,T,Mechanics,.25,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21284,Open,ECOR 1046,T1,Mechanics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21285,Open,ECOR 1046,T2,Mechanics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21286,Open,ECOR 1046,T3,Mechanics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+20952,Open,ECOR 1047,S,Visual Communication,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,13:05,14:25,Azrieli Theatre,302,,ECOR
+20953,Open,ECOR 1047,S1,Visual Communication,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Fri,11:35,14:25,Canal Building,3101,,ECOR
+21287,Open,ECOR 1047,T,Visual Communication,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:05,14:25,Azrieli Theatre,302,,ECOR
+21288,Open,ECOR 1047,T1,Visual Communication,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Fri,14:35,17:25,Canal Building,3101,,ECOR
+20956,Open,ECOR 1048,S,Dynamics,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,12:55,Azrieli Theatre,302,,ECOR
+20957,Open,ECOR 1048,S1,Dynamics,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon,11:35,14:25,Canal Building,3101,,ECOR
+20958,Open,ECOR 1048,S2,Dynamics,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Fri,14:35,17:25,Canal Building,3101,,ECOR
+21291,Open,ECOR 1048,T,Dynamics,.25,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,12:55,Azrieli Theatre,302,,ECOR
+21292,Open,ECOR 1048,T1,Dynamics,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Fri,08:35,11:25,Canal Building,3101,,ECOR
+21293,Open,ECOR 1048,T2,Dynamics,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Thu,08:35,11:25,Canal Building,3101,,ECOR
+21294,Open,ECOR 1048,T3,Dynamics,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue,11:35,14:25,Canal Building,3101,,ECOR
+20960,Open,ECOR 2050,A,Design/Analysis of Experiments,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Minto Centre,5050,,ECOR
+20961,Open,ECOR 2050,A1,Design/Analysis of Experiments,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Mackenzie Building,3269,,ECOR
+20962,Open,ECOR 2050,A2,Design/Analysis of Experiments,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,08:35,11:25,Mackenzie Building,3235,,ECOR
+20965,Open,ECOR 2995,S,Engineering Portfolio,0,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+20966,Open,ECOR 3800,A,Engineering Economics,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Azrieli Theatre,302,,ECOR
+20967,Open,ECOR 4995,A,Professional Practice,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+20976,Open,ENGL 1010,A,Writing Essays about Lit.,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,Richcraft Hall,3202,,ENGL
+21302,Open,ENGL 2011,A,Children's Literature,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,14:25,ON,LINE,,ENGL
+20977,Open,ENGL 2500,A,Classical Mythology,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ENGL
+20978,Open,ENGL 3605,A,Modern/Contemp Literary Theory,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,ENGL
+20979,Open,ENGL 4115,A,Culture & the Text,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Dunton Tower,1812,,ENGL
+20980,Open,ENGL 4115,B,Culture & the Text,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,Dunton Tower,1812,,ENGL
+20981,Open,ENGL 5610,S,Studies Contemporary Literat I,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,Dunton Tower,1812,,ENGL
+20982,Open,ENGL 5900,S,Sel. Topic English Studies I,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Dunton Tower,1812,,ENGL
+20335,Open,ENGL 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENGL
+20336,Open,ENGL 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENGL
+20337,Open,ENGL 6101,T,Directed Reading,.5,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENGL
+20338,Open,ENGL 6900,S,Comprehensive Examination,1,Comprehensive,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENGL
+20339,Open,ENGL 6909,S,Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENGL
+20358,Open,ESLA 1900,A,Adv ESL for Acad Purposes,1,Seminar,Yes,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,ESLA
+21463,Open,ENVJ 5908,O,Anaerobic Digestion,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Mon Tue,16:05,18:55,Room:,,,ENVJ
+20344,Open,ENVE 5900,S,Environmental Engin. Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENVE
+20345,Open,ENVE 5906,S,Directed Studies 1,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENVE
+20346,Open,ENVE 5909,S,M.A.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENVE
+20347,Open,ENVE 6902,S,Ph.D. Comprehensive Exam,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENVE
+20348,Open,ENVE 6906,S,Directed Studies 2,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENVE
+20349,Open,ENVE 6909,S,Ph. D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENVE
+20341,Open,ENSC 4906,A,Honours Research Project,1,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENSC
+20983,Open,ENST 1020,A,"People, Places & Environments",.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:35,20:25,Tory Building,208,,ENST
+20984,Open,ENST 1020,A1,"People, Places & Environments",0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,16:35,17:25,Loeb Building,A410,,ENST
+20985,Open,ENST 1020,A2,"People, Places & Environments",0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,17:35,18:25,Loeb Building,A410,,ENST
+20987,Open,ENST 3900,A,Honours Field Course,.5,Field Course,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,Loeb Building,A410,,ENST
+20988,Open,EPAF 5100,A,Supervised Research Tutorial,.5,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,EPAF
+21303,Open,EPAF 5100,B,Supervised Research Tutorial,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EPAF
+20350,Open,EPAF 5500,S,Practicum,.5,Practicum,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EPAF
+20351,Open,EPAF 6600,S,Theory Examination,.5,Comprehensive,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EPAF
+20352,Open,EPAF 6700,S,Area Examination,.5,Comprehensive,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EPAF
+20353,Open,EPAF 6909,S,Ph.D. Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EPAF
+20990,Open,EURR 4201,S,Special Topics in European St.,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,Richcraft Hall,3112,,EURR
+20360,Open,EURR 4302,A,EU Summer Study Abroad,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EURR
+20363,Open,EURR 4908,A,Honours Essay,1,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EURR
+21304,Open,EURR 5108,S,Cda-EU Relations: Summer Module,.5,Seminar,No,Yes,,"Aug 05, 2025","Aug 08, 2025",Tue Wed Thu Fri,10:05,14:55,Richcraft Hall,3202,,EURR
+20991,Open,EURR 5201,S,Special Topics in European St.,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,Richcraft Hall,3112,,EURR
+20364,Open,EURR 5302,S,EU Summer Study Abroad,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EURR
+20368,Open,EURR 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EURR
+20369,Open,EURR 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EURR
+21004,Open,FILM 1101,A,Introduction to Film Studies,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,21:55,ON,LINE,,FILM
+21005,Open,FILM 4805,A,Practicum in Film Studies,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,FILM
+21315,Open,FILM 4805,B,Practicum in Film Studies,.5,Practicum,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FILM
+21006,Open,FILM 5001,S,Directed Readings & Research,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,FILM
+21316,Open,FILM 5001,T,Directed Readings & Research,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FILM
+21317,Open,FILM 5801,S,Graduate internship,.5,Field Course,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FILM
+21007,Open,FILM 5801,T,Graduate internship,.5,Field Course,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,FILM
+20403,Open,FILM 5908,S,Research essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FILM
+20404,Open,FILM 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FILM
+21318,Open,FINA 5501,V,Financial Management,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21008,Open,FINA 5502,V,Corporate Finance,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21319,Open,FINA 5511,V,Investments,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21320,Open,FINA 5512,V,Valuation,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21009,Open,FINA 5513,V,Mergers and Acquisitions,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21321,Open,FINA 5514,V,International Finance,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21322,Open,FINA 5514,Z,International Finance,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon,11:35,14:25,Nicol Building,5010,,FINA
+21010,Open,FINA 5519,Z,Financial Risk Management,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue,11:35,14:25,Nicol Building,5010,,FINA
+21011,Open,FINA 5521,V,Financial Mangemt Concentratio,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21012,Open,FINA 5522,Z,Financial Technology,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon,11:35,14:25,Nicol Building,5010,,FINA
+21013,Open,FINA 5523,Z,Financial Analytics,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Wed,11:35,14:25,Nicol Building,5010,,FINA
+21323,Open,FINA 5524,Z,Fin. Markets and Institutions,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue,11:35,14:25,Nicol Building,5010,,FINA
+21014,Open,FINA 5525,Z,Sustainable Finance,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu,11:35,14:25,Nicol Building,5010,,FINA
+21324,Open,FINA 5527,Z,Portfolio Management,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Wed,11:35,14:25,Nicol Building,5010,,FINA
+20406,Open,FOOD 4907,A,Food Sci Nutri Hons Essay Rsrc,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FOOD
+20407,Open,FOOD 4908,A,Food Scien Rsrc Proj,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FOOD
+20408,Open,FOOD 5802,S,Seminar II,0,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FOOD
+20409,Open,FOOD 5909,S,M.Sc. Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FOOD
+20410,Open,FOOD 6909,S,Ph.D. Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FOOD
+20412,Open,FREN 4801,A,Tutorial A,1,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FREN
+21015,Open,FREN 4802,A,Tutorial B,.5,Tutorial,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,FREN
+21325,Open,FREN 4802,B,Tutorial B,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FREN
+20413,Open,FREN 5908,O,Memoire de recherche,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FREN
+20414,Open,FREN 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FREN
+21016,Open,GEOG 1020,A,"People, Places & Environments",.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:35,20:25,Tory Building,208,,GEOG
+21017,Open,GEOG 1020,A1,"People, Places & Environments",0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,16:35,17:25,Loeb Building,A410,,GEOG
+21018,Open,GEOG 1020,A2,"People, Places & Environments",0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,17:35,18:25,Loeb Building,A410,,GEOG
+21326,Open,GEOG 2200,A,Global Connections,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,GEOG
+21020,Open,GEOG 3000,A,Honours Field Course,.5,Field Course,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,Loeb Building,A410,,GEOG
+21021,Open,GEOG 3030,A,Regional Field Excursion,.5,Field Course,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20416,Open,GEOG 5107,S,Field Study & Method. Research,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+21022,Open,GEOG 5900,S,Graduate Tutorial,.5,Seminar,No,Yes,,"May 05, 2025","May 26, 2025",Mon Tue Wed Thu,09:05,11:55,Loeb Building,A237,,GEOG
+20417,Open,GEOG 5906,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20418,Open,GEOG 5909,S,M. A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+21023,Open,GEOG 6006,S,Geography of Environ. Change,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20419,Open,GEOG 6007,S,Geography of Environ. Change,.5,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20420,Open,GEOG 6906,S,Comprehensive Examination,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20421,Open,GEOG 6907,S,Comprehensive Examination,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+20422,Open,GEOG 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GEOG
+21024,Open,GEOM 4001,A,Field methods-Remote Sensing,.5,Seminar,No,Yes,,"May 05, 2025","May 26, 2025",Mon Tue Wed Thu,09:05,11:55,Loeb Building,A237,,GEOM
+20424,Open,GINS 1300,S,IER Preparation,0,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20425,Open,GINS 3900,S,International Placement,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20426,Open,GINS 3901,S,International Placement,1,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20427,Open,GINS 3930,S,CU International Placement,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20428,Open,GINS 3931,S,CU International Placement,1,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20430,Open,GINS 4900,S,Tut Glob & Intl Studies,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20431,Open,GINS 4908,B,Honours Research Essay,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20442,Open,HLTH 4901,A,Directed Studies in Health,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20443,Open,HLTH 4910,A,Honours Ind Research Thesis,1,Other,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20444,Open,HLTH 4910,B,Honours Ind Research Thesis,.5,Other,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20445,Open,HLTH 5505,A,Health Rsrch Project - Individ,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Mon,14:35,17:25,Health Science Building,1104,,HLTH
+20446,Open,HLTH 5506,A,Field Research and Placement,1,Practicum,No,No,,"May 05, 2025","Aug 14, 2025",Mon,14:35,17:25,Health Science Building,1104,,HLTH
+20447,Open,HLTH 5507,A,Interdis Hlth research Proj,1,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Mon,14:35,17:25,Health Science Building,1104,,HLTH
+21029,Open,HLTH 5702,S,Race and Medicine,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,HLTH
+20448,Open,HLTH 5800,A,Dir.Std. Health: Sci Tech Plcy,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20449,Open,HLTH 5801,S,"HLTH: Sci, Tech & Pol Praticum",.5,Practicum,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20450,Open,HLTH 5902,B,Interdisciplinary Hlth Sci,.25,Seminar,No,Yes,2nd half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20451,Open,HLTH 5902,C,Interdisciplinary Hlth Sci,.25,Seminar,No,Yes,1st half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20452,Open,HLTH 5905,S,Research Seminar Presentation,0,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20453,Open,HLTH 5909,S,MSc Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20454,Open,HLTH 6902,B,Interdisciplinary Hlth Sci,.25,Seminar,No,Yes,2nd half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20455,Open,HLTH 6902,C,Interdisciplinary Hlth Sci,.25,Seminar,No,Yes,1st half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20456,Open,HLTH 6904,S,Mid-Program Defence,0,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20457,Open,HLTH 6905,S,Research Seminar Presentation,0,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20458,Open,HLTH 6909,S,PhD Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+21025,Open,HIST 2301,A,Canadian Political History,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,HIST
+21327,Open,HIST 2402,A,Hist of United States fm 1865,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,HIST
+21328,Open,HIST 2913,A,History of Oil,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,HIST
+21026,Open,HIST 3005,A,Medieval Aristocratic Life,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,HIST
+21027,Open,HIST 3116,A,History of Disability,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,HIST
+21028,Open,HIST 3704,A,Aztecs,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Tory Building,202,,HIST
+20435,Open,HIST 5703,A,Public History Internship,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+20437,Open,HIST 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+20438,Open,HIST 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+21445,Open,HIST 6906,G,Central Eurasia,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+21446,Open,HIST 6906,I,Public History,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+20440,Open,HIST 6907,S,PhD Comprehensive Examination,.5,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+20441,Open,HIST 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+21030,Open,HRSJ 2202,A,Power Relations,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,HRSJ
+21031,Open,HRSJ 3302,A,"Culture, Religion & Gender",.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,HRSJ
+21032,Open,HRSJ 3303,A,Children's Rights,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,ON,LINE,,HRSJ
+21033,Open,HRSJ 4908,A,Independent Study,.5,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,HRSJ
+21329,Open,HRSJ 4908,B,Independent Study,.5,Independent Study,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HRSJ
+20432,Open,HCIN 5900,A,Directed Studies,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HCIN
+20433,Open,HCIN 5909,A,Thesis in Human-Comp Interac,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HCIN
+21040,Open,INDG 1011,B,Intro. Indg. Settler Enc.,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,Loeb Building,A720,,INDG
+21041,Open,INDG 4015,A,Land as a Relation,.5,Field Course,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,INDG
+20469,Open,INDG 4905,A,Directed Studies I,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,INDG
+21334,Open,INDG 4905,B,Directed Studies I,.5,Directed Studies,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,INDG
+20460,Open,IDES 5000,R,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IDES
+21036,Open,IDES 5000,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,IDES
+21332,Open,IDES 5000,T,Directed Studies,.5,Directed Studies,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IDES
+21037,Open,IDES 5500,B,Special Topi in Industri Desig,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,13:05,15:55,Mackenzie Building,3490,,IDES
+20461,Open,IDES 5909,S,Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IDES
+21045,Open,ITIS 5401,V,Managing Information Systems,.25,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ITIS
+20492,Open,ITIS 5431,N,Business Analytics for Manager,.25,Seminar,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITIS
+21337,Open,ITIS 5431,P,Business Analytics for Manager,.25,Seminar,Yes,Yes,,"Jul 11, 2025","Jul 12, 2025",Fri Sat,08:35,17:25,Nicol Building,4040,,ITIS
+21338,Open,ITIS 5431,V,Business Analytics for Manager,.25,Seminar,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ITIS
+20493,Open,ITIS 5432,N,Business Analytics Methods,.25,Seminar,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITIS
+21046,Open,ITIS 5433,V,Business Analytics Methods,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ITIS
+20494,Open,ITIS 5434,N,Data Visualization,.25,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITIS
+21339,Open,ITIS 5434,P,Data Visualization,.25,Lecture,Yes,Yes,,"Aug 08, 2025","Aug 09, 2025",Fri Sat,08:35,17:25,Nicol Building,4040,,ITIS
+21047,Open,ITIS 5434,V,Data Visualization,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ITIS
+20828,Open,BIT 1400,A,Intro to Progrming & Prob Solv,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,13:05,15:55,Azrieli Pavilion,132,,BIT
+20829,Open,BIT 1400,A1,Intro to Progrming & Prob Solv,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,13:05,15:55,Azrieli Pavilion,132,,BIT
+21208,Open,BIT 2400,A,Intermediate Programming,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:05,15:55,Azrieli Pavilion,132,,BIT
+21209,Open,BIT 2400,A1,Intermediate Programming,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,08:35,11:25,Azrieli Pavilion,132,,BIT
+20075,Open,BIT 4000,C,Directed Studies,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIT
+21043,Open,ITEC 1400,A,Intro Programming & Prob Solv,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,13:05,15:55,Azrieli Pavilion,132,,ITEC
+21044,Open,ITEC 1400,A1,Intro Programming & Prob Solv,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,13:05,15:55,Azrieli Pavilion,132,,ITEC
+21335,Open,ITEC 2400,A,Intermediate Programming,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:05,15:55,Azrieli Pavilion,132,,ITEC
+21336,Open,ITEC 2400,A1,Intermediate Programming,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,08:35,11:25,Azrieli Pavilion,132,,ITEC
+20486,Open,ITEC 5001,A,Information Tech. Seminars,0,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Mon,14:35,16:25,Tory Building,213,,ITEC
+20487,Open,ITEC 5900,A,Directed Studies,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITEC
+20488,Open,ITEC 5909,A,Master's Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITEC
+20489,Open,ITEC 6907,A,Doctoral Qualifying Exam,0,Comprehensive,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITEC
+20490,Open,ITEC 6908,A,Doctoral Proposal,0,Independent Study,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITEC
+20491,Open,ITEC 6909,A,Doc. Thesis,0,PhD Thesis,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITEC
+20482,Open,IPIS 5907,S,Research Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPIS
+20483,Open,IPIS 5908,S,Research Paper,1,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPIS
+20470,Open,IPAF 4900,A,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20471,Open,IPAF 4900,B,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20472,Open,IPAF 4900,C,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20473,Open,IPAF 4900,D,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20474,Open,IPAF 4900,E,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20475,Open,IPAF 4900,F,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20476,Open,IPAF 4900,G,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20477,Open,IPAF 4900,H,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20478,Open,IPAF 4900,I,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20479,Open,IPAF 4900,J,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20480,Open,IPAF 4900,K,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+20481,Open,IPAF 4900,L,Research Experience Course,.5,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,IPAF
+21038,Open,INAF 5207,S,Middle East Econ & Pol Rel,.5,Seminar,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,Richcraft Hall,3110,,INAF
+21333,Open,INAF 5409,S,Global Dev Narr Turkey & Other,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Richcraft Hall,3224,,INAF
+21437,Open,INAF 5705,S,Global Social Policy,.5,Seminar,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Richcraft Hall,3110,,INAF
+20462,Open,INAF 5901,S,Tutorials in Int'l Affairs,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,INAF
+20463,Open,INAF 5906,S,M.A./JD. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,INAF
+20464,Open,INAF 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,INAF
+20465,Open,INAF 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,INAF
+20467,Open,INAF 6909,S,Ph.D. Dissertation,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,INAF
+20468,Open,INAF 6921,S,Ph.D. Tutorial Int'l Affairs,.5,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,INAF
+21034,Open,IBUS 5701,P,International Business,.25,Seminar,No,Yes,,"Jun 06, 2025","Jun 07, 2025",Fri Sat,08:35,17:25,Nicol Building,3040,,IBUS
+21330,Open,IBUS 5701,V,International Business,.25,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,IBUS
+20495,Open,JOUR 5900,S,Directed Studies,1,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,JOUR
+21048,Open,JOUR 5901,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,JOUR
+21340,Open,JOUR 5901,U,Directed Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,JOUR
+20496,Open,JOUR 5908,S,M. Journalism Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,JOUR
+20497,Open,JOUR 5909,S,M. Journalism Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,JOUR
+21049,Open,LAWS 1001,A,Intro to Legal Studies 1,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,13:25,ON,LINE,,LAWS
+21050,Open,LAWS 1001,A01,Intro to Legal Studies 1,0,Discussion Group,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,13:35,14:25,ON,LINE,,LAWS
+21051,Open,LAWS 1002,A,Intro to Legal Studies 2,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,13:25,ON,LINE,,LAWS
+21052,Open,LAWS 1002,A01,Intro to Legal Studies 2,0,Discussion Group,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,13:35,14:25,ON,LINE,,LAWS
+21466,Open,LAWS 1002,A02,Intro to Legal Studies 2,0,Discussion Group,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,15:25,ON,LINE,,LAWS
+21054,Open,LAWS 2601,A,Public International Law,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,LAWS
+21055,Open,LAWS 3308,A,Punishment and The Law,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,LAWS
+21056,Open,LAWS 4200,A,Selected Topic Int'l Econ Law,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,ON,LINE,,LAWS
+21057,Open,LAWS 4202,A,Accountability of Management,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Tue,08:35,11:25,ON,LINE,,LAWS
+21342,Open,LAWS 4603,A,Transitional Justice,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,ON,LINE,,LAWS
+20499,Open,LAWS 4901,A,Tutorial in Law,.5,Tutorial,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20500,Open,LAWS 4902,A,Tutorial in Law,.5,Tutorial,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20501,Open,LAWS 4905,S,Full-Yr Srvc Learning Plcmnt,1,Field Placement,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20502,Open,LAWS 4906,S,Service Learning Placement,.5,Field Placement,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20503,Open,LAWS 4907,S,Service Learning Placement,.5,Field Placement,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20504,Open,LAWS 4908,A,Honours Paper,1,Honours Essay,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20505,Open,LAWS 4908,B,Honours Paper,1,Honours Essay,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20506,Open,LAWS 4908,C,Honours Paper,1,Honours Essay,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+21058,Open,LAWS 5900,S,Tutorials/Directed Readings,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,LAWS
+21343,Open,LAWS 5901,S,Tutorials/Directed Readings,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20507,Open,LAWS 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20508,Open,LAWS 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+21059,Open,LAWS 6010,S,Directed Reading Legal Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,LAWS
+21344,Open,LAWS 6010,U,Directed Reading Legal Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20509,Open,LAWS 6095,S,Field Comprehensive,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20510,Open,LAWS 6096,S,Thesis Proposal,1,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20511,Open,LAWS 6909,S,Ph. D. Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20512,Open,LING 3900,A,Independent Study,1,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20513,Open,LING 3901,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20514,Open,LING 4900,A,Independen Study in Linguistic,1,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20515,Open,LING 4901,A,Independen Study in Linguistic,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20516,Open,LING 4910,A,Honours Thesis in Linguistics,1,Honours Essay,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20517,Open,LING 5901,A,Directed Reading Linguistics,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20518,Open,LING 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20519,Open,LING 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20520,Open,LING 6907,S,Doctoral Comprehensive Exam,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20521,Open,LING 6908,S,Qualifying Paper,0,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20522,Open,LING 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20574,Open,MGMT 5100,N,Managing People & Organization,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MGMT
+21357,Open,MGMT 5100,V,Managing People & Organization,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MGMT
+21358,Open,MGMT 5111,V,Conflict & Negotiation,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MGMT
+21359,Open,MGMT 5112,V,Power & Influence,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MGMT
+21360,Open,MGMT 5114,P,Managing Diversity,.25,Seminar,Yes,Yes,,"Jul 25, 2025","Jul 26, 2025",Fri Sat,08:35,17:25,Nicol Building,4040,,MGMT
+21087,Open,MGMT 5116,V,Managing Performance,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MGMT
+21088,Open,MGMT 5120,V,Fundam Lead & Manag Organi Chng,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MGMT
+21361,Open,MKTG 5200,V,Marketing Strategy,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,MKTG
+21345,Open,MATH 1005,A,Diff. Eqs. & Series Eng. & Phy,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:35,21:25,Azrieli Theatre,102,,MATH
+21346,Open,MATH 1005,A1,Diff. Eqs. & Series Eng. & Phy,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,18:25,Southam Hall,515,,MATH
+21347,Open,MATH 1005,A2,Diff. Eqs. & Series Eng. & Phy,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,18:25,Nideyinàn (former UC),282,,MATH
+21348,Open,MATH 1005,A3,Diff. Eqs. & Series Eng. & Phy,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,18:25,Southam Hall,516,,MATH
+20525,Open,MATH 1007,A,Elementary Calculus I,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,Azrieli Theatre,302,,MATH
+20526,Open,MATH 1007,A1,Elementary Calculus I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:35,18:25,Tory Building,208,,MATH
+20527,Open,MATH 1007,A2,Elementary Calculus I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:35,18:25,Tory Building,342,,MATH
+20529,Open,MATH 1009,A,Mathematics for Business,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,Tory Building,342,,MATH
+20530,Open,MATH 1009,A1,Mathematics for Business,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:35,18:25,Richcraft Hall,1201,,MATH
+20532,Open,MATH 1104,A,Linear Algebra (Eng. or Sci.),.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:35,19:55,Loeb Building,C264,,MATH
+20533,Open,MATH 1104,A1,Linear Algebra (Eng. or Sci.),0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Mon,17:35,18:25,Tory Building,342,,MATH
+20534,Open,MATH 1104,A2,Linear Algebra (Eng. or Sci.),0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Mon,17:35,18:25,Canal Building,3101,,MATH
+20535,Open,MATH 1107,A,Linear Algebra I,.5,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:35,19:55,Loeb Building,C164,,MATH
+20536,Open,MATH 1107,A1,Linear Algebra I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Wed,17:35,18:25,Nicol Building,4040,,MATH
+21349,Open,MATH 1800,A,Intro Mathematical Reasoning,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:35,21:25,ON,LINE,,MATH
+21350,Open,MATH 1800,A1,Intro Mathematical Reasoning,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,18:25,ON,LINE,,MATH
+21071,Open,MATH 2004,A,Multivariable Cal. Eng or Phys,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:35,21:25,Azrieli Theatre,102,,MATH
+21072,Open,MATH 2004,A1,Multivariable Cal. Eng or Phys,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,18:25,Canal Building,2202,,MATH
+21073,Open,MATH 2004,A2,Multivariable Cal. Eng or Phys,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,18:25,Tory Building,240,,MATH
+20539,Open,MATH 2007,A,Elementary Calculus II,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:35,19:55,Loeb Building,A720,,MATH
+20540,Open,MATH 2007,A1,Elementary Calculus II,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Mon,17:35,18:25,Tory Building,208,,MATH
+21077,Open,MATH 2008,A,Intermediate Calculus,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:35,21:25,Azrieli Theatre,102,,MATH
+21078,Open,MATH 2008,A1,Intermediate Calculus,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,18:25,Canal Building,2202,,MATH
+21079,Open,MATH 2008,A2,Intermediate Calculus,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,18:25,Tory Building,240,,MATH
+20541,Open,MATH 2107,A,Linear Algebra II,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,Loeb Building,C264,,MATH
+20542,Open,MATH 2107,A1,Linear Algebra II,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:35,18:25,St. Patrick's Building,303,,MATH
+20543,Open,MATH 2107,A2,Linear Algebra II,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:35,18:25,Loeb Building,A720,,MATH
+20544,Open,MATH 2108,A,Abstract Algebra I,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,Loeb Building,A720,,MATH
+20545,Open,MATH 2108,A1,Abstract Algebra I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Thu,17:35,18:25,Loeb Building,A720,,MATH
+20547,Open,MATH 3101,A,Algebraic Structures (C.S.),.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,Loeb Building,A720,,MATH
+20548,Open,MATH 3101,A1,Algebraic Structures (C.S.),0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Thu,17:35,18:25,Loeb Building,A720,,MATH
+21351,Open,MATH 3705,A,Mathematical Methods I,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:35,21:25,Tory Building,340,,MATH
+21352,Open,MATH 3705,A1,Mathematical Methods I,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,17:35,18:25,Southam Hall,516,,MATH
+21353,Open,MATH 3705,A2,Mathematical Methods I,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,17:35,18:25,St. Patrick's Building,435,,MATH
+21439,Open,MATH 3801,A,Linear Programming,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,17:05,18:25,Loeb Building,C264,,MATH
+21440,Open,MATH 3801,A1,Linear Programming,0,Tutorial,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue,16:05,16:55,Loeb Building,A720,,MATH
+20553,Open,MATH 4905,A,Honours Project,.5,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20554,Open,MATH 4905,B,Honours Project,.5,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20555,Open,MATH 4905,C,Honours Project,.5,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+21084,Open,MATH 4905,D,Honours Project,.5,Honours Essay,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,MATH
+21355,Open,MATH 4905,E,Honours Project,.5,Honours Essay,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20560,Open,MATH 5906,S,Research Internship,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20561,Open,MATH 5909,S,M.Sc. Thesis in Mathematics,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+21356,Open,MATH 5910,S,Project in Mathematics,1,Research Project,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20564,Open,MATH 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20565,Open,MECH 5906,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MECH
+20566,Open,MECH 5908,S,Independent Study,1.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MECH
+20567,Open,MECH 5909,S,M.A.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MECH
+20568,Open,MECH 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MECH
+21063,Open,MAAE 2300,A,Fluid Mechanics I,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,Mackenzie Building,4499,,MAAE
+21064,Open,MAAE 2300,L1,Fluid Mechanics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,08:35,11:25,Mackenzie Building,4342,,MAAE
+21065,Open,MAAE 2300,L2,Fluid Mechanics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Mackenzie Building,4342,,MAAE
+21066,Open,MAAE 2300,L3,Fluid Mechanics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Mackenzie Building,4342,,MAAE
+21067,Open,MAAE 2300,L4,Fluid Mechanics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Mackenzie Building,4342,,MAAE
+21068,Open,MAAE 3400,A,Applied Thermodynamics,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Mackenzie Building,4494,,MAAE
+21069,Open,MAAE 3400,L1,Applied Thermodynamics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Tue,11:35,14:25,Mackenzie Building,4342,,MAAE
+21070,Open,MAAE 3400,L2,Applied Thermodynamics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Thu,11:35,14:25,Mackenzie Building,4342,,MAAE
+20524,Open,MAAE 4917,C,Undergraduate Directed Study,.5,Directed Studies,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MAAE
+20570,Open,MGDS 5901,S,Dir. Read. Migration Diaspora,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MGDS
+20571,Open,MGDS 5908,S,Research Essay,1,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MGDS
+20572,Open,MGDS 5909,S,M.A. Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MGDS
+21089,Open,MUSI 1001,A,Classical Music History,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Loeb Building,A720,,MUSI
+21090,Open,MUSI 1002,A,Issues in Popular Music,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,MUSI
+20584,Open,MUSI 4205,A,Specialized Studies,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20585,Open,MUSI 4206,A,Specialized Performance,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+21091,Open,MUSI 4800,A,Practicum in Music,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,MUSI
+21363,Open,MUSI 4801,A,Practicum in Music,.5,Practicum,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20586,Open,MUSI 4906,B,Portfolio in Composition,.5,Independent Study,Yes,Yes,2nd half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20587,Open,MUSI 4906,C,Portfolio in Composition,.5,Independent Study,Yes,Yes,1st half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20588,Open,MUSI 4908,B,Honours Essay in Musicology,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20589,Open,MUSI 4908,C,Honours Essay in Musicology,.5,Honours Essay,No,Yes,1st half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20590,Open,MUSI 4909,B,Portfolio in New Media,1,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20591,Open,MUSI 5300,S,Practicum in Music,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+21092,Open,MUSI 5400,W,Advanced Studies - Performance,.25,Other,No,No,2nd half of two term course,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20592,Open,MUSI 5900,S,Directed Readings & Research,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20593,Open,MUSI 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20594,Open,MUSI 5909,S,M.A Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+21097,Open,NEUR 1202,A,NMH and Psychiatric Disease,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,NEUR
+21364,Open,NEUR 1203,A,NMH and Neurological Disease,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,NEUR
+21098,Open,NEUR 2201,A,Cellular and Molecular Neur,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,NEUR
+21365,Open,NEUR 2202,A,Neurodevelopment & Plasticity,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,NEUR
+20596,Open,NEUR 4900,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20597,Open,NEUR 4907,A,Honours Essay & Research Proposa,1,Honours Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20598,Open,NEUR 4908,A,Honours Research Thesis,1,Honours Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+21100,Open,NEUR 4908,B,Honours Research Thesis,1,Honours Essay,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20599,Open,NEUR 5909,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20600,Open,NEUR 6200,O,Comprehensive Examination,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20601,Open,NEUR 6301,A,Techniques in Neuroscience I,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20602,Open,NEUR 6302,A,Techniques in Neuroscience II,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20603,Open,NEUR 6401,W,Independ Rsrch Neuroscience I,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20604,Open,NEUR 6402,A,Independ rsrch Neuroscience II,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20605,Open,NEUR 6501,A,Direct Studies Neuroscience I,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20606,Open,NEUR 6502,A,Direct Studies Neuroscience I,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20607,Open,NEUR 6909,S,Ph.D Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NEUR
+20608,Open,NRTH 5009,A,Field Course in Can. North,.5,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NRTH
+20609,Open,NRTH 5901,A,Practicum in Northern Studies,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,NRTH
+20628,Open,PANL 5001,O,Foundations of Philanthropy,.5,Seminar,No,Yes,,"Jun 16, 2025","Jun 27, 2025",Mon Tue Wed Thu Fri,08:35,11:55,Richcraft Hall,3224,,PANL
+20629,Open,PANL 5001,S,Foundations of Philanthropy,.5,Seminar,No,Yes,,"Jun 16, 2025","Jun 27, 2025",Mon Tue Wed Thu Fri,08:35,11:55,Richcraft Hall,3224,,PANL
+20630,Open,PANL 5001,T,Foundations of Philanthropy,.5,Seminar,No,Yes,,"Jun 16, 2025","Jun 27, 2025",Mon Tue Wed Thu Fri,08:35,11:55,Richcraft Hall,3224,,PANL
+20631,Open,PANL 5002,O,Policy and Legal Environment,.5,Seminar,No,Yes,,"Jun 16, 2025","Jun 27, 2025",Mon Tue Wed Thu Fri,13:05,16:25,Richcraft Hall,3224,,PANL
+20632,Open,PANL 5002,S,Policy and Legal Environment,.5,Seminar,No,Yes,,"Jun 16, 2025","Jun 27, 2025",Mon Tue Wed Thu Fri,13:05,16:25,Richcraft Hall,3224,,PANL
+20633,Open,PANL 5002,T,Policy and Legal Environment,.5,Seminar,No,Yes,,"Jun 16, 2025","Jun 27, 2025",Mon Tue Wed Thu Fri,13:05,16:25,Richcraft Hall,3224,,PANL
+20634,Open,PANL 5004,S,Governance and Leadership,.5,Seminar,No,Yes,,"Jun 16, 2025","Jun 20, 2025",Mon Tue Wed Thu Fri,08:35,16:25,Richcraft Hall,3228,,PANL
+20635,Open,PANL 5005,S,Organizational Development,.5,Seminar,No,Yes,,"Jun 23, 2025","Jun 27, 2025",Mon Tue Wed Thu Fri,08:35,16:25,Richcraft Hall,3228,,PANL
+20636,Open,PANL 5009,S,Internship,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PANL
+21441,Open,PANL 5303,S,"Social Media, Communic & Marketi",.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,20:25,ON,LINE,,PANL
+20637,Open,PANL 5791,S,Directed Studies,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PANL
+21104,Open,PHIL 1200,A,The Meaning of Life,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,Mackenzie Building,3275,,PHIL
+21105,Open,PHIL 1550,A,Intro Ethics & Social Issues,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,20:25,ON,LINE,,PHIL
+21366,Open,PHIL 2001,A,Introduction to Symbolic Logic,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,20:25,ON,LINE,,PHIL
+21367,Open,PHIL 2330,A,Happiness and the Good Life,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHIL
+21368,Open,PHIL 2340,A,Philosophy and Popular Culture,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHIL
+21106,Open,PHIL 2380,A,Intro to Environmental Ethics,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHIL
+21107,Open,PHIL 2405,A,Philosophy of the Paranormal,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,ON,LINE,,PHIL
+21369,Open,PHIL 2501,A,Intro to Philosophy of Mind,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,14:35,17:25,ON,LINE,,PHIL
+20646,Open,PHIL 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PHIL
+20647,Open,PHIL 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PHIL
+20648,Open,PHYS 1004,A,Electromagnetism & Wave Motion,.5,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Mon Wed,14:35,15:55,Azrieli Theatre,302,,PHYS
+20649,Open,PHYS 1004,A1,Electromagnetism & Wave Motion,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,08:35,11:25,Herzberg Laboratories,4130,,PHYS
+20650,Open,PHYS 1004,A2,Electromagnetism & Wave Motion,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Thu,13:05,15:55,Herzberg Laboratories,4130,,PHYS
+21114,Open,PHYS 1007,A,University Physics I,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Azrieli Theatre,102,,PHYS
+21115,Open,PHYS 1007,A1,University Physics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Tue,13:05,15:55,Herzberg Laboratories,4160,,PHYS
+21116,Open,PHYS 1007,A2,University Physics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Thu,08:35,11:25,Herzberg Laboratories,4160,,PHYS
+21376,Open,PHYS 1008,A,University Physics II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Tory Building,202,,PHYS
+21377,Open,PHYS 1008,A1,University Physics II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue,13:05,15:55,Herzberg Laboratories,4160,,PHYS
+21117,Open,PHYS 1901,V,Planetary Astronomy,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHYS
+21378,Open,PHYS 1902,V,From Our Star to the Cosmos,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHYS
+21118,Open,PHYS 1905,R,Physics Behind Everyday Life,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHYS
+21379,Open,PHYS 2903,R,Physics Towards the Future,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHYS
+20652,Open,PHYS 5909,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PHYS
+20653,Open,PHYS 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PHYS
+20642,Open,PECO 5900,S,Tutorial in Political Economy,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PECO
+20643,Open,PECO 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PECO
+20644,Open,PECO 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PECO
+20654,Open,POLM 5099,A,Practicum Placement,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,POLM
+21380,Open,PSCI 1100,A,Democracy in Theory & Practice,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSCI
+21119,Open,PSCI 1200,A,Politics in the World,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSCI
+21120,Open,PSCI 2002,A,Cdn Politics and Civil Society,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSCI
+21381,Open,PSCI 2601,A,IR: Global Politics,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,14:35,17:25,ON,LINE,,PSCI
+21121,Open,PSCI 3603,A,Strategic Thght & Int'l Sec,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSCI
+21382,Open,PSCI 3802,A,Globalization & Human Rights,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSCI
+21122,Open,PSCI 3905,A,Washington Center Internship,1.5,Other,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21383,Open,PSCI 3905,B,Washington Center Internship,1.5,Other,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21124,Open,PSCI 3908,A,Summer Field Research Course,.5,Field Course,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21125,Open,PSCI 4005,A,Canadian Federalism,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Tory Building,240,,PSCI
+21385,Open,PSCI 4806,A,Transatlantic Security Issues,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Paterson Hall,112,,PSCI
+21126,Open,PSCI 4901,A,Tutorial in a Selected Field,.5,Tutorial,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21386,Open,PSCI 4902,A,Tutorial in a Selected Field,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21127,Open,PSCI 4905,A,Washington Center Seminar I,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21387,Open,PSCI 4905,B,Washington Center Seminar I,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21128,Open,PSCI 4906,A,Washington Center Seminar II,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21388,Open,PSCI 4906,B,Washington Center Seminar II,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20659,Open,PSCI 4908,A,Honours Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20660,Open,PSCI 4908,B,Honours Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21129,Open,PSCI 5101,S,Canadian Federalism,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Tory Building,240,,PSCI
+21389,Open,PSCI 5103,S,Cda-EU Relations: Summer module,.5,Seminar,No,Yes,,"Aug 05, 2025","Aug 08, 2025",Tue Wed Thu Fri,10:05,14:55,Richcraft Hall,3202,,PSCI
+21390,Open,PSCI 5803,A,Transatlantic Security Issues,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Paterson Hall,112,,PSCI
+20662,Open,PSCI 5900,S,Tutorial in a Selected Field,1,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21130,Open,PSCI 5901,S,Tutorial in a Selected Field,.5,Tutorial,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21391,Open,PSCI 5901,U,Tutorial in a Selected Field,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21392,Open,PSCI 5904,U,Washington Center Internship,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21132,Open,PSCI 5905,S,Washington Center Seminar I,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21393,Open,PSCI 5905,U,Washington Center Seminar I,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21133,Open,PSCI 5906,S,Washington Center Seminar II,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21394,Open,PSCI 5906,U,Washington Center Seminar II,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20663,Open,PSCI 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20664,Open,PSCI 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20666,Open,PSCI 6900,S,Ph.D. Field Examination I,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20667,Open,PSCI 6905,S,Ph.D. Field Examination II,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20668,Open,PSCI 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21134,Open,PSYC 1001,A,Introduction to Psychology I,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21395,Open,PSYC 1002,A,Introduction to Psychology II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21135,Open,PSYC 2001,A,Intro to Res Meth in Psych,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSYC
+21396,Open,PSYC 2002,B,Intro to Statistics in Psych,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21397,Open,PSYC 2100,A,Social Psychology,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSYC
+21136,Open,PSYC 2301,A,Introduction to Health Psych,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PSYC
+21137,Open,PSYC 2400,A,Forensic Psychology,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,Minto Centre,5050,,PSYC
+21138,Open,PSYC 2500,A,Developmental Psychology,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSYC
+21139,Open,PSYC 2600,A,Personality,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Tory Building,360,,PSYC
+21398,Open,PSYC 2700,A,Cognitive Psychology,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21399,Open,PSYC 2801,A,Organizational Psychology I,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PSYC
+20669,Open,PSYC 3000,A,Advanced Design & Analysis,1,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PSYC
+20670,Open,PSYC 3000,A1,Advanced Design & Analysis,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,17:05,17:55,ON,LINE,,PSYC
+21400,Open,PSYC 3402,A,Criminal Behaviour,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PSYC
+21140,Open,PSYC 3403,A,Addiction,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PSYC
+21141,Open,PSYC 3604,A,Clinical and Mental Illness,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21401,Open,PSYC 4301,A,Advanced Topics Health PSYC,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21142,Open,PSYC 4900,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSYC
+21402,Open,PSYC 4900,B,Independent Study,.5,Independent Study,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+21143,Open,PSYC 4902,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSYC
+21403,Open,PSYC 4902,B,Independent Study,.5,Independent Study,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20672,Open,PSYC 4907,A,Honours Thesis (B.Sc.),1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20673,Open,PSYC 4907,B,Honours Thesis (B.Sc.),1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20674,Open,PSYC 4908,A,Honours Thesis (B.A.),1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20675,Open,PSYC 4908,B,Honours Thesis (B.A.),1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20676,Open,PSYC 4909,A,Project for B.Sc. Hon in Psyc,1,Seminar,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSYC
+20677,Open,PSYC 4910,A,Project for B.A. Hon in Psyc,1,Seminar,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSYC
+21404,Open,PSYC 5804,A,Clinical Approaches- Assessmen,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+20678,Open,PSYC 5900,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20679,Open,PSYC 5900,U,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20680,Open,PSYC 5901,S,Independent Research,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20681,Open,PSYC 5901,U,Independent Research,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20682,Open,PSYC 5903,S,Practicum in Psychology,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20683,Open,PSYC 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20684,Open,PSYC 6114,S,Teaching Practicum,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20685,Open,PSYC 6900,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20686,Open,PSYC 6900,U,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20687,Open,PSYC 6901,S,Independent Research,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20688,Open,PSYC 6901,U,Independent Research,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20689,Open,PSYC 6903,S,Practicum in Psychology,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20690,Open,PSYC 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20616,Open,PADM 5291,S,Dir. Std.,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PADM
+20617,Open,PADM 5444,S,Ben Cost Analysis for Eval,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PADM
+20618,Open,PADM 5702,A,Housing Policy,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue,17:35,20:25,Richcraft Hall,3201,,PADM
+21101,Open,PADM 5702,B,Banking Regulation,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,20:25,Richcraft Hall,3110,,PADM
+21442,Open,PADM 5702,O,Policy Seminars,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,20:25,ON,LINE,,PADM
+20621,Open,PADM 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PADM
+20622,Open,PADM 5909,S,M.P.P.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PADM
+20624,Open,PADM 6900,A,Ph.D Comprehensive Examination,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PADM
+20625,Open,PADM 6901,S,Ph.D. Specialization Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PADM
+20626,Open,PADM 6902,S,Ph.D. Specialization Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PADM
+20627,Open,PADM 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PADM
+20639,Open,PAPM 4908,A,Honours Research Essay,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PAPM
+20640,Open,PAPM 4908,B,Honours Research Essay,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PAPM
+20641,Open,PAPM 4908,C,Honours Research Essay,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PAPM
+21145,Open,RELI 1710,A,"Judaism, Christianity, Islam",.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,RELI
+21146,Open,RELI 2110,A,Judaism,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,RELI
+21147,Open,RELI 2736,A,Religion and Society,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,RELI
+20695,Open,RELI 5908,S,Research Essay,1.5,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,RELI
+21168,Open,SXST 3103,A,Sexuality and Disability,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,SXST
+21160,Open,SOWK 1001,W,Introduction to Social Welfare,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,20:25,ON,LINE,,SOWK
+21415,Open,SOWK 1002,W,Introduction to Social Work,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,17:35,20:25,ON,LINE,,SOWK
+21416,Open,SOWK 2301,W,Working with Children & Youth,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,20:25,ON,LINE,,SOWK
+21161,Open,SOWK 4210,W,Addictions,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,17:35,20:25,ON,LINE,,SOWK
+20709,Open,SOWK 4600,A,Practicum II,2,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,ON,LINE,,SOWK
+20710,Open,SOWK 4600,B,Practicum II,2,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,118,,SOWK
+20711,Open,SOWK 4600,C,Practicum II,2,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,234,,SOWK
+21468,Open,SOWK 4600,D,Practicum II,2,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,111,,SOWK
+20712,Open,SOWK 4601,A,Practicum IIA,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,ON,LINE,,SOWK
+20713,Open,SOWK 4601,B,Practicum IIA,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,118,,SOWK
+20714,Open,SOWK 4602,A,Practicum IIB,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,ON,LINE,,SOWK
+20715,Open,SOWK 4602,B,Practicum IIB,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Loeb Building,B249,,SOWK
+20716,Open,SOWK 4908,A,Honours Essay,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20717,Open,SOWK 5504,T,Directed Studies,1,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+21162,Open,SOWK 5506,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,SOWK
+21417,Open,SOWK 5506,U,Directed Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20719,Open,SOWK 5607,A,Practicum II,2,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,ON,LINE,,SOWK
+20720,Open,SOWK 5607,B,Practicum II,2,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,114,,SOWK
+20721,Open,SOWK 5607,C,Practicum II,2,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,112,,SOWK
+20722,Open,SOWK 5607,D,Practicum II,2,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,100A,,SOWK
+21163,Open,SOWK 5702,W,Addictions,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,17:35,20:25,ON,LINE,,SOWK
+20723,Open,SOWK 5903,S,Independent Research Studies,1,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+21164,Open,SOWK 5904,S,Independent Research Studies,.5,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,SOWK
+21418,Open,SOWK 5904,T,Independent Research Studies,.5,Independent Study,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20724,Open,SOWK 5909,S,Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20725,Open,SOWK 6405,T,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20726,Open,SOWK 6800,T,Qualifying Examination,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20727,Open,SOWK 6909,T,PhD Dissertation,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+21150,Open,SOCI 1001,A,Introduction to Sociology I,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,ON,LINE,,SOCI
+21408,Open,SOCI 1002,A,Introduction Sociology II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,14:35,17:25,ON,LINE,,SOCI
+21151,Open,SOCI 2000,A,Foundations of Socio. Inquiry,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,ON,LINE,,SOCI
+21409,Open,SOCI 2001,A,Intr Qualitative Rsrch Methods,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,14:35,17:25,ON,LINE,,SOCI
+21152,Open,SOCI 2005,A,Histories of Socio. Thought,1,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,ON,LINE,,SOCI
+21153,Open,SOCI 2705,A,Popular Culture in Digital Age,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,ON,LINE,,SOCI
+21154,Open,SOCI 2820,B,ST: Palestinian Soc. & Culture,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,ON,LINE,,SOCI
+21155,Open,SOCI 2910,A,Course-Related Tut. in Sociol.,.5,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21410,Open,SOCI 2920,A,Course-Related Tut. in Sociol.,.5,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21411,Open,SOCI 3027,A,Globalization & Human Rights,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,SOCI
+21412,Open,SOCI 3045,A,Child Childhood Global World,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,ON,LINE,,SOCI
+21156,Open,SOCI 3055,A,Studies in Addictions,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Tory Building,342,,SOCI
+21157,Open,SOCI 3910,A,Course-Related Tut. in Soc.,.5,Tutorial,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21413,Open,SOCI 3920,A,Course-Related Tut. in Socio.,.5,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21158,Open,SOCI 4850,B,ST: Race & Medicine,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,SOCI
+20699,Open,SOCI 4900,B,Honours Thesis,1,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21159,Open,SOCI 4910,A,Tutorial in Sociology,.5,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21414,Open,SOCI 4920,A,Tutorial in Sociology,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20700,Open,SOCI 4920,B,Tutorial in Sociology,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20701,Open,SOCI 5900,S,Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20702,Open,SOCI 5900,U,Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20703,Open,SOCI 5906,S,Placement in Sociology,.5,Field Placement,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20704,Open,SOCI 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20705,Open,SOCI 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20707,Open,SOCI 6900,S,Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20708,Open,SOCI 6909,A,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21165,Open,SPAN 1010,A,First-Year Spanish I,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,13:35,17:25,ON,LINE,,SPAN
+21419,Open,SPAN 1020,A,First-Year Spanish II,.5,Seminar,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:35,17:25,ON,LINE,,SPAN
+20728,Open,STAT 1500,A,Intro to Statistical Computing,.5,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,ON,LINE,,STAT
+20729,Open,STAT 1500,A1,Intro to Statistical Computing,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,20:35,21:25,Herzberg Laboratories,3393,,STAT
+20730,Open,STAT 1500,A2,Intro to Statistical Computing,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,20:35,21:25,Herzberg Laboratories,4385,,STAT
+20731,Open,STAT 1500,A3,Intro to Statistical Computing,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:05,17:55,Herzberg Laboratories,4385,,STAT
+20732,Open,STAT 2507,A,Intro to Stat Modelling I,.5,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:05,19:25,Azrieli Theatre,301,,STAT
+20733,Open,STAT 2507,A1,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Mon,17:05,17:55,Herzberg Laboratories,3393,,STAT
+20734,Open,STAT 2507,A2,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Wed,17:05,17:55,Herzberg Laboratories,3393,,STAT
+20735,Open,STAT 2507,A3,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Mon,19:35,20:25,Herzberg Laboratories,3393,,STAT
+20736,Open,STAT 2507,A4,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Wed,19:35,20:25,Herzberg Laboratories,3393,,STAT
+20737,Open,STAT 2507,A5,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Mon,20:35,21:25,Herzberg Laboratories,3393,,STAT
+20738,Open,STAT 2507,A6,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Wed,20:35,21:25,Herzberg Laboratories,3393,,STAT
+20739,Open,STAT 2509,A,Intro to Stat Modelling II,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:05,19:25,Azrieli Pavilion,132,,STAT
+20740,Open,STAT 2509,A1,Intro to Stat Modelling II,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Wed,17:05,17:55,Herzberg Laboratories,4385,,STAT
+20741,Open,STAT 2509,A2,Intro to Stat Modelling II,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Wed,19:35,20:25,Herzberg Laboratories,4385,,STAT
+20743,Open,STAT 2601,A,Business Statistics,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:05,19:25,Loeb Building,C164,,STAT
+20744,Open,STAT 2601,A1,Business Statistics,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Thu,17:05,17:55,Herzberg Laboratories,3393,,STAT
+20745,Open,STAT 2601,A2,Business Statistics,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Thu,19:35,20:25,Herzberg Laboratories,3393,,STAT
+20746,Open,STAT 2601,A3,Business Statistics,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Thu,20:35,21:25,Herzberg Laboratories,3393,,STAT
+20747,Open,STAT 2602,A,Statistical Models Business,.5,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Tue,11:35,14:25,ON,LINE,,STAT
+20748,Open,STAT 2602,A1,Statistical Models Business,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,15:05,15:55,Herzberg Laboratories,3393,,STAT
+20749,Open,STAT 2602,A2,Statistical Models Business,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,16:05,16:55,Herzberg Laboratories,3393,,STAT
+20750,Open,STAT 3503,A,Regression Analysis,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:05,19:25,Tory Building,202,,STAT
+20751,Open,STAT 3503,A1,Regression Analysis,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Thu,19:35,20:25,Herzberg Laboratories,4385,,STAT
+20754,Open,STAT 5904,S,Statistical Internship,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,STAT
+20760,Open,STAT 5909,S,M.Sc. Thesis in Statistics,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,STAT
+21420,Open,STAT 5910,S,M.Sc. Project in Statistics,1,Research Project,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,STAT
+21421,Open,STGY 5900,T,Corporate & Business Strategy,.5,Seminar,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,STGY
+21166,Open,STGY 5900,V,Corporate & Business Strategy,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,STGY
+21167,Open,STGY 5903,V,Strategic Concepts,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,STGY
+20696,Open,SERG 5906,S,Dir. Study Sustainable Energy,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SERG
+21169,Open,SYSC 2004,A,Object-Oriented Sofware Dvlpmt,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Mackenzie Building,3328,,SYSC
+21170,Open,SYSC 2004,L1,Object-Oriented Sofware Dvlpmt,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,19:25,Minto Centre,6010,,SYSC
+21422,Open,SYSC 2100,A,Algorithms and Data Structures,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,14:35,17:25,Mackenzie Building,4499,,SYSC
+21423,Open,SYSC 2100,L1,Algorithms and Data Structures,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,17:35,19:25,Minto Centre,6010,,SYSC
+21424,Open,SYSC 2320,A,Intro. Computer Org. and Arch.,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,14:25,Nicol Building,4010,,SYSC
+21425,Open,SYSC 2320,L1,Intro. Computer Org. and Arch.,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,08:35,11:25,Minto Centre,6010,,SYSC
+21426,Open,SYSC 3006,A,Computer Organization,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,14:25,Nicol Building,4010,,SYSC
+21427,Open,SYSC 3006,L1,Computer Organization,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,08:35,11:25,Minto Centre,6010,,SYSC
+21171,Open,SYSC 3501,A,Communication Theory,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Mackenzie Building,3380,,SYSC
+21172,Open,SYSC 3501,L1,Communication Theory,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon,08:35,11:25,Minto Centre,6010,,SYSC
+20762,Open,SYSC 5900,S,Systems Engineering Project,.5,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SYSC
+20763,Open,SYSC 5906,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SYSC
+20764,Open,SYSC 5909,S,Masters Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SYSC
+20765,Open,SYSC 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SYSC
+20774,Open,TSES 2305,W,Ancient Science and Technology,1,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,TSES
+21173,Open,TIMG 5101,A,Integrated Product Development,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,Nicol Building,4020,,TIMG
+21174,Open,TIMG 5103,D,Design Thinking for Tech Firms,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Nicol Building,4030,,TIMG
+21428,Open,TIMG 5103,P,Prompt Engineering in Business,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,Nicol Building,4030,,TIMG
+20767,Open,TIMG 5104,A,Dir Std: Tech Innovation Mgmt,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+20768,Open,TIMG 5110,S,Project Based Learning,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue,14:35,17:25,Nicol Building,4030,,TIMG
+21429,Open,TIMG 5204,A,Responsible AI,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Nicol Building,4030,,TIMG
+20769,Open,TIMG 5901,S,M.Eng Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+20770,Open,TIMG 5905,S,M.Ent. Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+20771,Open,TIMG 5907,S,M.A.B.A. Project,1,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+20772,Open,TIMG 5908,S,MDTE Project,1,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+20773,Open,TIMG 5909,S,Master's Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+21175,Open,TOMS 5302,V,Operations Management,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,TOMS
+21176,Open,TOMS 5303,P,Managing Projects,.25,Seminar,No,Yes,,"Jun 20, 2025","Jun 21, 2025",Fri Sat,08:35,17:25,Nicol Building,3040,,TOMS
+21430,Open,TOMS 5303,V,Managing Projects,.25,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,TOMS
+20775,Open,WGST 1808,A,Intro Feminist Transformation,1,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,WGST
+21431,Open,WGST 2801,A,Activism Feminisms & Soci Justic,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,WGST
+21432,Open,WGST 4003,A,Traversing Feminisms,.5,Seminar,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,WGST
+21433,Open,WGST 5003,A,Traversing Feminisms,.5,Seminar,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,WGST
+20776,Open,WGST 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,WGST
+20777,Open,WGST 5909,S,MA Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,WGST
+21177,Open,WGST 5910,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,WGST
+21434,Open,WGST 5911,S,Directed Studies,.5,Directed Studies,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,WGST

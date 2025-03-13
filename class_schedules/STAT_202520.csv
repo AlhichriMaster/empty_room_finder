@@ -1,0 +1,27 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20728,Open,STAT 1500,A,Intro to Statistical Computing,.5,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,ON,LINE,,STAT
+20729,Open,STAT 1500,A1,Intro to Statistical Computing,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,20:35,21:25,Herzberg Laboratories,3393,,STAT
+20730,Open,STAT 1500,A2,Intro to Statistical Computing,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,20:35,21:25,Herzberg Laboratories,4385,,STAT
+20731,Open,STAT 1500,A3,Intro to Statistical Computing,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:05,17:55,Herzberg Laboratories,4385,,STAT
+20732,Open,STAT 2507,A,Intro to Stat Modelling I,.5,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:05,19:25,Azrieli Theatre,301,,STAT
+20733,Open,STAT 2507,A1,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Mon,17:05,17:55,Herzberg Laboratories,3393,,STAT
+20734,Open,STAT 2507,A2,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Wed,17:05,17:55,Herzberg Laboratories,3393,,STAT
+20735,Open,STAT 2507,A3,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Mon,19:35,20:25,Herzberg Laboratories,3393,,STAT
+20736,Open,STAT 2507,A4,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Wed,19:35,20:25,Herzberg Laboratories,3393,,STAT
+20737,Open,STAT 2507,A5,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Mon,20:35,21:25,Herzberg Laboratories,3393,,STAT
+20738,Open,STAT 2507,A6,Intro to Stat Modelling I,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Wed,20:35,21:25,Herzberg Laboratories,3393,,STAT
+20739,Open,STAT 2509,A,Intro to Stat Modelling II,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:05,19:25,Azrieli Pavilion,132,,STAT
+20740,Open,STAT 2509,A1,Intro to Stat Modelling II,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Wed,17:05,17:55,Herzberg Laboratories,4385,,STAT
+20741,Open,STAT 2509,A2,Intro to Stat Modelling II,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Wed,19:35,20:25,Herzberg Laboratories,4385,,STAT
+20743,Open,STAT 2601,A,Business Statistics,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:05,19:25,Loeb Building,C164,,STAT
+20744,Open,STAT 2601,A1,Business Statistics,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Thu,17:05,17:55,Herzberg Laboratories,3393,,STAT
+20745,Open,STAT 2601,A2,Business Statistics,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Thu,19:35,20:25,Herzberg Laboratories,3393,,STAT
+20746,Open,STAT 2601,A3,Business Statistics,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Thu,20:35,21:25,Herzberg Laboratories,3393,,STAT
+20747,Open,STAT 2602,A,Statistical Models Business,.5,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Tue,11:35,14:25,ON,LINE,,STAT
+20748,Open,STAT 2602,A1,Statistical Models Business,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,15:05,15:55,Herzberg Laboratories,3393,,STAT
+20749,Open,STAT 2602,A2,Statistical Models Business,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,16:05,16:55,Herzberg Laboratories,3393,,STAT
+20750,Open,STAT 3503,A,Regression Analysis,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:05,19:25,Tory Building,202,,STAT
+20751,Open,STAT 3503,A1,Regression Analysis,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Thu,19:35,20:25,Herzberg Laboratories,4385,,STAT
+20754,Open,STAT 5904,S,Statistical Internship,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,STAT
+20760,Open,STAT 5909,S,M.Sc. Thesis in Statistics,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,STAT
+21420,Open,STAT 5910,S,M.Sc. Project in Statistics,1,Research Project,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,STAT

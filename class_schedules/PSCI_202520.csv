@@ -1,0 +1,36 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21380,Open,PSCI 1100,A,Democracy in Theory & Practice,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSCI
+21119,Open,PSCI 1200,A,Politics in the World,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSCI
+21120,Open,PSCI 2002,A,Cdn Politics and Civil Society,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSCI
+21381,Open,PSCI 2601,A,IR: Global Politics,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,14:35,17:25,ON,LINE,,PSCI
+21121,Open,PSCI 3603,A,Strategic Thght & Int'l Sec,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSCI
+21382,Open,PSCI 3802,A,Globalization & Human Rights,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSCI
+21122,Open,PSCI 3905,A,Washington Center Internship,1.5,Other,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21383,Open,PSCI 3905,B,Washington Center Internship,1.5,Other,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21124,Open,PSCI 3908,A,Summer Field Research Course,.5,Field Course,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21125,Open,PSCI 4005,A,Canadian Federalism,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Tory Building,240,,PSCI
+21385,Open,PSCI 4806,A,Transatlantic Security Issues,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Paterson Hall,112,,PSCI
+21126,Open,PSCI 4901,A,Tutorial in a Selected Field,.5,Tutorial,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21386,Open,PSCI 4902,A,Tutorial in a Selected Field,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21127,Open,PSCI 4905,A,Washington Center Seminar I,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21387,Open,PSCI 4905,B,Washington Center Seminar I,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21128,Open,PSCI 4906,A,Washington Center Seminar II,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21388,Open,PSCI 4906,B,Washington Center Seminar II,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20659,Open,PSCI 4908,A,Honours Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20660,Open,PSCI 4908,B,Honours Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21129,Open,PSCI 5101,S,Canadian Federalism,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Tory Building,240,,PSCI
+21389,Open,PSCI 5103,S,Cda-EU Relations: Summer module,.5,Seminar,No,Yes,,"Aug 05, 2025","Aug 08, 2025",Tue Wed Thu Fri,10:05,14:55,Richcraft Hall,3202,,PSCI
+21390,Open,PSCI 5803,A,Transatlantic Security Issues,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Paterson Hall,112,,PSCI
+20662,Open,PSCI 5900,S,Tutorial in a Selected Field,1,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21130,Open,PSCI 5901,S,Tutorial in a Selected Field,.5,Tutorial,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21391,Open,PSCI 5901,U,Tutorial in a Selected Field,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21392,Open,PSCI 5904,U,Washington Center Internship,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21132,Open,PSCI 5905,S,Washington Center Seminar I,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21393,Open,PSCI 5905,U,Washington Center Seminar I,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21133,Open,PSCI 5906,S,Washington Center Seminar II,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSCI
+21394,Open,PSCI 5906,U,Washington Center Seminar II,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20663,Open,PSCI 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20664,Open,PSCI 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20666,Open,PSCI 6900,S,Ph.D. Field Examination I,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20667,Open,PSCI 6905,S,Ph.D. Field Examination II,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI
+20668,Open,PSCI 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSCI

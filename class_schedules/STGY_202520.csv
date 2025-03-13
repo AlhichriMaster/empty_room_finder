@@ -1,0 +1,4 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21421,Open,STGY 5900,T,Corporate & Business Strategy,.5,Seminar,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,STGY
+21166,Open,STGY 5900,V,Corporate & Business Strategy,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,STGY
+21167,Open,STGY 5903,V,Strategic Concepts,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,STGY

@@ -1,0 +1,10 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21063,Open,MAAE 2300,A,Fluid Mechanics I,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,Mackenzie Building,4499,,MAAE
+21064,Open,MAAE 2300,L1,Fluid Mechanics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,08:35,11:25,Mackenzie Building,4342,,MAAE
+21065,Open,MAAE 2300,L2,Fluid Mechanics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Mackenzie Building,4342,,MAAE
+21066,Open,MAAE 2300,L3,Fluid Mechanics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Mackenzie Building,4342,,MAAE
+21067,Open,MAAE 2300,L4,Fluid Mechanics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Mackenzie Building,4342,,MAAE
+21068,Open,MAAE 3400,A,Applied Thermodynamics,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Mackenzie Building,4494,,MAAE
+21069,Open,MAAE 3400,L1,Applied Thermodynamics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Tue,11:35,14:25,Mackenzie Building,4342,,MAAE
+21070,Open,MAAE 3400,L2,Applied Thermodynamics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Thu,11:35,14:25,Mackenzie Building,4342,,MAAE
+20524,Open,MAAE 4917,C,Undergraduate Directed Study,.5,Directed Studies,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MAAE

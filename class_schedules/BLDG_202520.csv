@@ -1,0 +1,7 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20076,Open,BLDG 5900,S,M.Eng. Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20077,Open,BLDG 5906,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20078,Open,BLDG 5909,S,M.A.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20079,Open,BLDG 6901,S,Thesis Proposal,.5,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20080,Open,BLDG 6906,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG
+20081,Open,BLDG 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BLDG

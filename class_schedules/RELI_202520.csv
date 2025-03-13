@@ -1,0 +1,5 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21145,Open,RELI 1710,A,"Judaism, Christianity, Islam",.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,RELI
+21146,Open,RELI 2110,A,Judaism,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,RELI
+21147,Open,RELI 2736,A,Religion and Society,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,RELI
+20695,Open,RELI 5908,S,Research Essay,1.5,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,RELI

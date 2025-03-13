@@ -1,0 +1,29 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21160,Open,SOWK 1001,W,Introduction to Social Welfare,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,20:25,ON,LINE,,SOWK
+21415,Open,SOWK 1002,W,Introduction to Social Work,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,17:35,20:25,ON,LINE,,SOWK
+21416,Open,SOWK 2301,W,Working with Children & Youth,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,20:25,ON,LINE,,SOWK
+21161,Open,SOWK 4210,W,Addictions,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,17:35,20:25,ON,LINE,,SOWK
+20709,Open,SOWK 4600,A,Practicum II,2,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,ON,LINE,,SOWK
+20710,Open,SOWK 4600,B,Practicum II,2,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,118,,SOWK
+20711,Open,SOWK 4600,C,Practicum II,2,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,234,,SOWK
+21468,Open,SOWK 4600,D,Practicum II,2,Field Course,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,111,,SOWK
+20712,Open,SOWK 4601,A,Practicum IIA,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,ON,LINE,,SOWK
+20713,Open,SOWK 4601,B,Practicum IIA,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,118,,SOWK
+20714,Open,SOWK 4602,A,Practicum IIB,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,ON,LINE,,SOWK
+20715,Open,SOWK 4602,B,Practicum IIB,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Loeb Building,B249,,SOWK
+20716,Open,SOWK 4908,A,Honours Essay,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20717,Open,SOWK 5504,T,Directed Studies,1,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+21162,Open,SOWK 5506,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,SOWK
+21417,Open,SOWK 5506,U,Directed Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20719,Open,SOWK 5607,A,Practicum II,2,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,ON,LINE,,SOWK
+20720,Open,SOWK 5607,B,Practicum II,2,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,114,,SOWK
+20721,Open,SOWK 5607,C,Practicum II,2,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,112,,SOWK
+20722,Open,SOWK 5607,D,Practicum II,2,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Fri,08:35,11:25,Paterson Hall,100A,,SOWK
+21163,Open,SOWK 5702,W,Addictions,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,17:35,20:25,ON,LINE,,SOWK
+20723,Open,SOWK 5903,S,Independent Research Studies,1,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+21164,Open,SOWK 5904,S,Independent Research Studies,.5,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,SOWK
+21418,Open,SOWK 5904,T,Independent Research Studies,.5,Independent Study,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20724,Open,SOWK 5909,S,Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20725,Open,SOWK 6405,T,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20726,Open,SOWK 6800,T,Qualifying Examination,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK
+20727,Open,SOWK 6909,T,PhD Dissertation,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOWK

@@ -1,0 +1,12 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21173,Open,TIMG 5101,A,Integrated Product Development,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,Nicol Building,4020,,TIMG
+21174,Open,TIMG 5103,D,Design Thinking for Tech Firms,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Nicol Building,4030,,TIMG
+21428,Open,TIMG 5103,P,Prompt Engineering in Business,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,Nicol Building,4030,,TIMG
+20767,Open,TIMG 5104,A,Dir Std: Tech Innovation Mgmt,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+20768,Open,TIMG 5110,S,Project Based Learning,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue,14:35,17:25,Nicol Building,4030,,TIMG
+21429,Open,TIMG 5204,A,Responsible AI,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Nicol Building,4030,,TIMG
+20769,Open,TIMG 5901,S,M.Eng Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+20770,Open,TIMG 5905,S,M.Ent. Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+20771,Open,TIMG 5907,S,M.A.B.A. Project,1,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+20772,Open,TIMG 5908,S,MDTE Project,1,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG
+20773,Open,TIMG 5909,S,Master's Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,TIMG

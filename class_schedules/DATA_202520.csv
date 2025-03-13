@@ -1,0 +1,10 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21255,Open,DATA 5000,V,Data Science Seminar,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,DATA
+20192,Open,DATA 5908,A,Project - MSc,1.5,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20193,Open,DATA 5909,A,Thesis - MSc,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20194,Open,DATA 5918,A,Project - MIT,1.5,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20195,Open,DATA 5919,A,Thesis - MIT,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20196,Open,DATA 5928,A,Project - MEng,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20197,Open,DATA 5929,A,Thesis - MASc,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20198,Open,DATA 5939,A,Thesis - MCS,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA
+20199,Open,DATA 6909,A,Thesis - PhD,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,DATA

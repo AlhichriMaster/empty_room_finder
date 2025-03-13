@@ -1,0 +1,5 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20035,Open,ARCH 5100,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARCH
+20036,Open,ARCH 6907,S,PhD Comprehensive Examinati,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARCH
+20037,Open,ARCH 6908,S,PhD Proposal Examination,1,Practicum,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARCH
+20038,Open,ARCH 6909,S,PhD Dissertation,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARCH

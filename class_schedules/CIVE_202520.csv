@@ -1,0 +1,14 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20892,Open,CIVE 2200,A,Mechanics of Solids I,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,08:35,11:25,Mackenzie Building,3275,,CIVE
+20893,Open,CIVE 2200,A1,Mechanics of Solids I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Minto Centre,1084,,CIVE
+20893,Open,CIVE 2200,A1,Mechanics of Solids I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Mackenzie Building,3190,,CIVE
+20894,Open,CIVE 2200,A2,Mechanics of Solids I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Minto Centre,1084,,CIVE
+20894,Open,CIVE 2200,A2,Mechanics of Solids I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Mackenzie Building,3190,,CIVE
+20144,Open,CIVE 4917,A,Undergraduate Directed Study,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20145,Open,CIVE 5900,S,Civil Engineering Project,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20146,Open,CIVE 5906,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20147,Open,CIVE 5909,S,M.A.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20148,Open,CIVE 6902,S,PhD. Comprehensive Examination,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20149,Open,CIVE 6903,S,Ph.D. Proposal,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20150,Open,CIVE 6906,S,Directed Studies 2,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE
+20151,Open,CIVE 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CIVE

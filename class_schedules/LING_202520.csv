@@ -1,0 +1,12 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20512,Open,LING 3900,A,Independent Study,1,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20513,Open,LING 3901,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20514,Open,LING 4900,A,Independen Study in Linguistic,1,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20515,Open,LING 4901,A,Independen Study in Linguistic,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20516,Open,LING 4910,A,Honours Thesis in Linguistics,1,Honours Essay,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20517,Open,LING 5901,A,Directed Reading Linguistics,.5,Directed Studies,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20518,Open,LING 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20519,Open,LING 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20520,Open,LING 6907,S,Doctoral Comprehensive Exam,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20521,Open,LING 6908,S,Qualifying Paper,0,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING
+20522,Open,LING 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LING

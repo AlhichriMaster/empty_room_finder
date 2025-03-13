@@ -1,0 +1,28 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21049,Open,LAWS 1001,A,Intro to Legal Studies 1,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,13:25,ON,LINE,,LAWS
+21050,Open,LAWS 1001,A01,Intro to Legal Studies 1,0,Discussion Group,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,13:35,14:25,ON,LINE,,LAWS
+21051,Open,LAWS 1002,A,Intro to Legal Studies 2,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,13:25,ON,LINE,,LAWS
+21052,Open,LAWS 1002,A01,Intro to Legal Studies 2,0,Discussion Group,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,13:35,14:25,ON,LINE,,LAWS
+21466,Open,LAWS 1002,A02,Intro to Legal Studies 2,0,Discussion Group,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,15:25,ON,LINE,,LAWS
+21054,Open,LAWS 2601,A,Public International Law,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,LAWS
+21055,Open,LAWS 3308,A,Punishment and The Law,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,LAWS
+21056,Open,LAWS 4200,A,Selected Topic Int'l Econ Law,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,ON,LINE,,LAWS
+21057,Open,LAWS 4202,A,Accountability of Management,.5,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Tue,08:35,11:25,ON,LINE,,LAWS
+21342,Open,LAWS 4603,A,Transitional Justice,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,ON,LINE,,LAWS
+20499,Open,LAWS 4901,A,Tutorial in Law,.5,Tutorial,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20500,Open,LAWS 4902,A,Tutorial in Law,.5,Tutorial,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20501,Open,LAWS 4905,S,Full-Yr Srvc Learning Plcmnt,1,Field Placement,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20502,Open,LAWS 4906,S,Service Learning Placement,.5,Field Placement,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20503,Open,LAWS 4907,S,Service Learning Placement,.5,Field Placement,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20504,Open,LAWS 4908,A,Honours Paper,1,Honours Essay,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20505,Open,LAWS 4908,B,Honours Paper,1,Honours Essay,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20506,Open,LAWS 4908,C,Honours Paper,1,Honours Essay,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+21058,Open,LAWS 5900,S,Tutorials/Directed Readings,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,LAWS
+21343,Open,LAWS 5901,S,Tutorials/Directed Readings,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20507,Open,LAWS 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20508,Open,LAWS 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+21059,Open,LAWS 6010,S,Directed Reading Legal Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,LAWS
+21344,Open,LAWS 6010,U,Directed Reading Legal Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20509,Open,LAWS 6095,S,Field Comprehensive,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20510,Open,LAWS 6096,S,Thesis Proposal,1,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS
+20511,Open,LAWS 6909,S,Ph. D. Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,LAWS

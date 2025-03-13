@@ -1,0 +1,15 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20813,Open,ARTH 1101,A,Art and Society: 1300 to Pres,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,ARTH
+21469,Open,ARTH 3809,A,Architecture of Roman Baroque,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Mackenzie Building,3275,,ARTH
+20815,Open,ARTH 3900,A,Practicum in AAH,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ARTH
+21199,Open,ARTH 3900,B,Practicum in AAH,.5,Practicum,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+21470,Open,ARTH 4809,A,Architecture of Roman Baroque,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Mackenzie Building,3275,,ARTH
+20817,Open,ARTH 4900,A,Directed Readings and Research,.5,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ARTH
+21200,Open,ARTH 4900,B,Directed Readings and Research,.5,Independent Study,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20042,Open,ARTH 4909,A,Honours Research Project,1,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20818,Open,ARTH 5011,S,Graduate Practicum,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ARTH
+21201,Open,ARTH 5011,T,Graduate Practicum,.5,Practicum,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20819,Open,ARTH 5012,A,Directed Readings & Research,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,ARTH
+21202,Open,ARTH 5012,B,Directed Readings & Research,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20043,Open,ARTH 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH
+20044,Open,ARTH 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ARTH

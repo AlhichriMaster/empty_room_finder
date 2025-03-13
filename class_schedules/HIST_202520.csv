@@ -1,0 +1,14 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21025,Open,HIST 2301,A,Canadian Political History,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,HIST
+21327,Open,HIST 2402,A,Hist of United States fm 1865,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,HIST
+21328,Open,HIST 2913,A,History of Oil,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,HIST
+21026,Open,HIST 3005,A,Medieval Aristocratic Life,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,HIST
+21027,Open,HIST 3116,A,History of Disability,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,HIST
+21028,Open,HIST 3704,A,Aztecs,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Tory Building,202,,HIST
+20435,Open,HIST 5703,A,Public History Internship,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+20437,Open,HIST 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+20438,Open,HIST 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+21445,Open,HIST 6906,G,Central Eurasia,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+21446,Open,HIST 6906,I,Public History,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+20440,Open,HIST 6907,S,PhD Comprehensive Examination,.5,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST
+20441,Open,HIST 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HIST

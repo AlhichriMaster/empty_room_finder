@@ -1,0 +1,5 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20860,Open,CCDP 2100,A,Communication Skills for B.Eng,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,08:35,11:25,ON,LINE,,CCDP
+20861,Open,CCDP 2100,B,Communication Skills for B.Eng,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,14:35,17:25,Richcraft Hall,3112,,CCDP
+20862,Open,CCDP 2100,C,Communication Skills for B.Eng,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,18:05,20:55,ON,LINE,,CCDP
+20113,Open,CCDP 2100,D,Communication Skills for B.Eng,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue,18:05,20:55,ON,LINE,,CCDP

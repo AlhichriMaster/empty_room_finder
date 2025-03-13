@@ -1,0 +1,69 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20082,Open,BUSI 1001,R,Financial Accounting,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20083,Open,BUSI 1002,R,Management Accounting,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20830,Open,BUSI 1401,A,Foundations of Info Systems,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Nicol Building,3020,,BUSI
+20831,Open,BUSI 1800,A,Introduction to Business,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Wed Fri,08:35,10:25,ON,LINE,,BUSI
+20832,Open,BUSI 1800,A01,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon,12:35,13:25,Nicol Building,1020,,BUSI
+20833,Open,BUSI 1800,A02,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon,13:35,14:25,Nicol Building,1020,,BUSI
+20834,Open,BUSI 1800,A03,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Wed,11:35,12:25,Nicol Building,4050,,BUSI
+20835,Open,BUSI 1800,A04,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Fri,11:35,12:25,Nicol Building,3038,,BUSI
+20836,Open,BUSI 1800,A05,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue,11:35,12:25,Nicol Building,1020,,BUSI
+20837,Open,BUSI 1800,A06,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue,18:35,19:25,Nicol Building,4040,,BUSI
+20838,Open,BUSI 1800,A07,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon,18:35,19:25,Nicol Building,1020,,BUSI
+20839,Open,BUSI 1800,A08,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon,13:35,14:25,ON,LINE,,BUSI
+20840,Open,BUSI 1800,A09,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon,14:35,15:25,ON,LINE,,BUSI
+20841,Open,BUSI 1800,A10,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Wed,13:35,14:25,ON,LINE,,BUSI
+20842,Open,BUSI 1800,A11,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue,11:35,12:25,ON,LINE,,BUSI
+20843,Open,BUSI 1800,A12,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue,18:35,19:25,ON,LINE,,BUSI
+20844,Open,BUSI 1800,A13,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Fri,11:35,12:25,ON,LINE,,BUSI
+20845,Open,BUSI 1800,A14,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Thu,14:35,15:25,ON,LINE,,BUSI
+20846,Open,BUSI 1800,A15,Introduction to Business,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Thu,10:35,11:25,ON,LINE,,BUSI
+20847,Open,BUSI 1995,A,Employability Passport I,0,Other,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon,14:35,17:25,ON,LINE,,BUSI
+20084,Open,BUSI 2001,R,Intermediate Accounting I,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20085,Open,BUSI 2002,R,Intermediate Accounting II,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20848,Open,BUSI 2101,A,Organizational Behaviour,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Nicol Building,4020,,BUSI
+20849,Open,BUSI 2208,A,Introduction to Marketing,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,Nicol Building,3030,,BUSI
+20850,Open,BUSI 2301,A,Intro to Supply Chains,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,Nicol Building,4030,,BUSI
+21212,Open,BUSI 2401,A,Intro Data Analytics,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,14:35,17:25,Nicol Building,4030,,BUSI
+20851,Open,BUSI 2501,A,Business Finance,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Nicol Building,3030,,BUSI
+20087,Open,BUSI 2601,A,Business Law,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Thu,14:35,17:25,Nicol Building,4020,,BUSI
+21214,Open,BUSI 2701,A,Fundamentals of Intl Business,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Nicol Building,3030,,BUSI
+20088,Open,BUSI 2800,A,Entrepreneurship,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Thu,18:05,20:55,Nicol Building,3020,,BUSI
+20089,Open,BUSI 3001,R,Acc for Business Combinations,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20090,Open,BUSI 3007,R,Auditing I,.5,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20091,Open,BUSI 3007,R01,Auditing I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Mon,18:05,18:55,ON,LINE,,BUSI
+20092,Open,BUSI 3007,R02,Auditing I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,18:05,18:55,ON,LINE,,BUSI
+20093,Open,BUSI 3007,R03,Auditing I,0,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Wed,13:05,13:55,Nicol Building,1020,,BUSI
+20853,Open,BUSI 3008,R,Intermediate Mgmnt Acctng and,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20094,Open,BUSI 3040,R,Data Analytics in Accounting,.5,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20854,Open,BUSI 3102,A,Human Resources Management,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Tory Building,238,,BUSI
+21215,Open,BUSI 3309,A,Project Management,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Nicol Building,3020,,BUSI
+20095,Open,BUSI 3701,A,Practicum in Int. Business,.5,Field Course,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20096,Open,BUSI 3702,A,Practicum in Int. Business,.5,Field Course,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20097,Open,BUSI 3800,A,Sprott Student Consulting I,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Mon,14:35,16:25,Nicol Building,3030,,BUSI
+20855,Open,BUSI 3995,A,Career Preparation III,0,Other,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Wed,14:35,17:25,ON,LINE,,BUSI
+21216,Open,BUSI 4008,R,Mgment Control Systems,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+21217,Open,BUSI 4008,R01,Mgment Control Systems,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon,18:05,18:55,ON,LINE,,BUSI
+21218,Open,BUSI 4008,R02,Mgment Control Systems,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue,18:05,18:55,Nicol Building,4040,,BUSI
+20856,Open,BUSI 4601,A,Business Ethics,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Nicol Building,3040,,BUSI
+20099,Open,BUSI 4609,A,Strategic Management,.5,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Tue,18:05,20:55,Nicol Building,3040,,BUSI
+20100,Open,BUSI 4800,A,SSC II,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Mon,14:35,16:25,Nicol Building,3050,,BUSI
+20101,Open,BUSI 4904,A,Directed Studies I,1,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20102,Open,BUSI 4905,A,Directed Studies II,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+21219,Open,BUSI 4905,B,Directed Studies II,.5,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20103,Open,BUSI 4906,A,Research Project for Business,1,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+21220,Open,BUSI 5801,V,Statistics for Managers,.25,Seminar,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20104,Open,BUSI 5802,N,Business Ethics,.25,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20857,Open,BUSI 5802,V,Business Ethics,.25,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20105,Open,BUSI 5989,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20106,Open,BUSI 5995,P,Entrepreneurship,.5,Lecture,No,No,,"May 09, 2025","May 10, 2025",Fri Sat,08:35,17:25,Nicol Building,4030,,BUSI
+20106,Open,BUSI 5995,P,Entrepreneurship,.5,Lecture,No,No,,"May 23, 2025","May 24, 2025",Fri Sat,08:35,17:25,Nicol Building,4030,,BUSI
+20858,Open,BUSI 5995,V,Entrepreneurship,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20107,Open,BUSI 5997,A,Project Based Service Learning,.5,Other,No,No,,"May 05, 2025","Aug 14, 2025",Mon,14:35,16:25,Nicol Building,3050,,BUSI
+21221,Open,BUSI 5998,T,MBA Skills Workshop,0,Workshop,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20859,Open,BUSI 5998,V,MBA Skills Workshop,0,Workshop,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,BUSI
+20108,Open,BUSI 5999,S,Internship,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20109,Open,BUSI 6900,S,Directed Readings,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20110,Open,BUSI 6907,S,Ph.D. Thesis Tutorial,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20111,Open,BUSI 6908,S,Ph.D. Comprehensives,0,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI
+20112,Open,BUSI 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BUSI

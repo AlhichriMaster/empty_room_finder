@@ -1,0 +1,15 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20968,Open,ELEC 2501,A,Circuits and Signals,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Mackenzie Building,4499,,ELEC
+20969,Open,ELEC 2501,L01,Circuits and Signals,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Thu,11:35,14:25,Mackenzie Building,4195,,ELEC
+20971,Open,ELEC 2501,P01,Circuits and Signals,0,Problem Analysis,No,No,,"May 05, 2025","Jun 17, 2025",Tue,11:35,14:25,Mackenzie Building,4332,,ELEC
+21295,Open,ELEC 2507,A,Electronics I,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,20:25,Mackenzie Building,4499,,ELEC
+21296,Open,ELEC 2507,L01,Electronics I,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Thu,11:35,14:25,Mackenzie Building,4195,,ELEC
+21298,Open,ELEC 2507,P01,Electronics I,0,Problem Analysis,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue,11:35,14:25,Mackenzie Building,3275,,ELEC
+21300,Open,ELEC 3509,A,Electronics II,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,Mackenzie Building,4499,,ELEC
+21301,Open,ELEC 3509,L01,Electronics II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,14:35,17:25,Mackenzie Building,4275,,ELEC
+20973,Open,ELEC 3909,A,Electromagnetic Waves,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Mackenzie Building,4332,,ELEC
+20974,Open,ELEC 3909,A1,Electromagnetic Waves,0,Problem Analysis,No,No,,"May 05, 2025","Jun 17, 2025",Thu,11:35,14:25,Minto Centre,6030,,ELEC
+20330,Open,ELEC 5900,S,Engineering Project I,.5,Seminar,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ELEC
+20331,Open,ELEC 5906,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ELEC
+20332,Open,ELEC 5909,S,M.A.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ELEC
+20333,Open,ELEC 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ELEC

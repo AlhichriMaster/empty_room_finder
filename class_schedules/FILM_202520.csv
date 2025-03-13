@@ -1,0 +1,10 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21004,Open,FILM 1101,A,Introduction to Film Studies,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,21:55,ON,LINE,,FILM
+21005,Open,FILM 4805,A,Practicum in Film Studies,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,FILM
+21315,Open,FILM 4805,B,Practicum in Film Studies,.5,Practicum,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FILM
+21006,Open,FILM 5001,S,Directed Readings & Research,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,FILM
+21316,Open,FILM 5001,T,Directed Readings & Research,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FILM
+21317,Open,FILM 5801,S,Graduate internship,.5,Field Course,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FILM
+21007,Open,FILM 5801,T,Graduate internship,.5,Field Course,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,FILM
+20403,Open,FILM 5908,S,Research essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FILM
+20404,Open,FILM 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,FILM

@@ -1,0 +1,11 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21043,Open,ITEC 1400,A,Intro Programming & Prob Solv,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,13:05,15:55,Azrieli Pavilion,132,,ITEC
+21044,Open,ITEC 1400,A1,Intro Programming & Prob Solv,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,13:05,15:55,Azrieli Pavilion,132,,ITEC
+21335,Open,ITEC 2400,A,Intermediate Programming,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:05,15:55,Azrieli Pavilion,132,,ITEC
+21336,Open,ITEC 2400,A1,Intermediate Programming,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,08:35,11:25,Azrieli Pavilion,132,,ITEC
+20486,Open,ITEC 5001,A,Information Tech. Seminars,0,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Mon,14:35,16:25,Tory Building,213,,ITEC
+20487,Open,ITEC 5900,A,Directed Studies,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITEC
+20488,Open,ITEC 5909,A,Master's Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITEC
+20489,Open,ITEC 6907,A,Doctoral Qualifying Exam,0,Comprehensive,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITEC
+20490,Open,ITEC 6908,A,Doctoral Proposal,0,Independent Study,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITEC
+20491,Open,ITEC 6909,A,Doc. Thesis,0,PhD Thesis,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITEC

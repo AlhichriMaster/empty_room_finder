@@ -1,0 +1,15 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21318,Open,FINA 5501,V,Financial Management,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21008,Open,FINA 5502,V,Corporate Finance,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21319,Open,FINA 5511,V,Investments,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21320,Open,FINA 5512,V,Valuation,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21009,Open,FINA 5513,V,Mergers and Acquisitions,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21321,Open,FINA 5514,V,International Finance,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21322,Open,FINA 5514,Z,International Finance,.25,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon,11:35,14:25,Nicol Building,5010,,FINA
+21010,Open,FINA 5519,Z,Financial Risk Management,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue,11:35,14:25,Nicol Building,5010,,FINA
+21011,Open,FINA 5521,V,Financial Mangemt Concentratio,.25,Seminar,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,FINA
+21012,Open,FINA 5522,Z,Financial Technology,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon,11:35,14:25,Nicol Building,5010,,FINA
+21013,Open,FINA 5523,Z,Financial Analytics,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Wed,11:35,14:25,Nicol Building,5010,,FINA
+21323,Open,FINA 5524,Z,Fin. Markets and Institutions,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue,11:35,14:25,Nicol Building,5010,,FINA
+21014,Open,FINA 5525,Z,Sustainable Finance,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu,11:35,14:25,Nicol Building,5010,,FINA
+21324,Open,FINA 5527,Z,Portfolio Management,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Wed,11:35,14:25,Nicol Building,5010,,FINA

@@ -1,0 +1,56 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20928,Open,ECOR 1041,S,Computation and Programming,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,09:55,Azrieli Theatre,302,,ECOR
+20930,Open,ECOR 1041,S2,Computation and Programming,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Fri,14:35,17:25,Nicol Building,4020,,ECOR
+21263,Open,ECOR 1041,T,Computation and Programming,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,08:35,09:55,Azrieli Theatre,302,,ECOR
+21265,Open,ECOR 1041,T2,Computation and Programming,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Thu,08:35,11:25,Southam Hall,502,,ECOR
+20932,Open,ECOR 1042,S,Data Management,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,10:05,11:25,Azrieli Theatre,302,,ECOR
+20933,Open,ECOR 1042,S1,Data Management,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon,08:35,11:25,Nicol Building,3020,,ECOR
+20934,Open,ECOR 1042,S2,Data Management,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Wed,11:35,14:25,Nicol Building,4030,,ECOR
+20935,Open,ECOR 1042,S3,Data Management,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Fri,11:35,14:25,Nicol Building,3030,,ECOR
+21267,Open,ECOR 1042,T,Data Management,.25,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,10:05,11:25,Azrieli Theatre,302,,ECOR
+21268,Open,ECOR 1042,T1,Data Management,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Wed,11:35,14:25,Southam Hall,502,,ECOR
+21269,Open,ECOR 1042,T2,Data Management,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Fri,08:35,11:25,Nicol Building,4030,,ECOR
+21270,Open,ECOR 1042,T3,Data Management,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue,08:35,11:25,Southam Hall,502,,ECOR
+20936,Open,ECOR 1043,S,Circuits,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,08:35,09:55,Azrieli Theatre,302,,ECOR
+20937,Open,ECOR 1043,S1,Circuits,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Fri,08:35,11:25,Canal Building,4301,,ECOR
+20938,Open,ECOR 1043,S2,Circuits,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Wed,14:35,17:25,Canal Building,4301,,ECOR
+21271,Open,ECOR 1043,T,Circuits,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,16:05,17:25,Azrieli Theatre,102,,ECOR
+21272,Open,ECOR 1043,T1,Circuits,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Wed,11:35,14:25,Canal Building,4301,,ECOR
+21273,Open,ECOR 1043,T2,Circuits,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon,11:35,14:25,Canal Building,4301,,ECOR
+20940,Open,ECOR 1044,S,Mechatronics,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,10:05,11:25,Azrieli Theatre,302,,ECOR
+20941,Open,ECOR 1044,S1,Mechatronics,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu,11:35,14:25,Canal Building,4301,,ECOR
+20942,Open,ECOR 1044,S2,Mechatronics,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon,11:35,14:25,Canal Building,4301,,ECOR
+21275,Open,ECOR 1044,T,Mechatronics,.25,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,16:05,17:25,Azrieli Theatre,302,,ECOR
+21276,Open,ECOR 1044,T1,Mechatronics,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Fri,11:35,14:25,Canal Building,4301,,ECOR
+21277,Open,ECOR 1044,T2,Mechatronics,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Thu,11:35,14:25,Canal Building,4301,,ECOR
+20944,Open,ECOR 1045,S,Statics,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,16:05,17:25,Minto Centre,5050,,ECOR
+20945,Open,ECOR 1045,S1,Statics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Fri,14:35,17:25,Mackenzie Building,3328,,ECOR
+20947,Open,ECOR 1045,S3,Statics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon,08:35,11:25,Mackenzie Building,3328,,ECOR
+21279,Open,ECOR 1045,T,Statics,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21280,Open,ECOR 1045,T1,Statics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21281,Open,ECOR 1045,T2,Statics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21282,Open,ECOR 1045,T3,Statics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+20948,Open,ECOR 1046,S,Mechanics,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,17:35,18:55,Azrieli Theatre,101,,ECOR
+20949,Open,ECOR 1046,S1,Mechanics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Wed,08:35,11:25,Canal Building,4111,,ECOR
+20951,Open,ECOR 1046,S3,Mechanics,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Fri,08:35,11:25,Canal Building,4111,,ECOR
+21283,Open,ECOR 1046,T,Mechanics,.25,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21284,Open,ECOR 1046,T1,Mechanics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21285,Open,ECOR 1046,T2,Mechanics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+21286,Open,ECOR 1046,T3,Mechanics,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+20952,Open,ECOR 1047,S,Visual Communication,.25,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,13:05,14:25,Azrieli Theatre,302,,ECOR
+20953,Open,ECOR 1047,S1,Visual Communication,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Fri,11:35,14:25,Canal Building,3101,,ECOR
+21287,Open,ECOR 1047,T,Visual Communication,.25,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,13:05,14:25,Azrieli Theatre,302,,ECOR
+21288,Open,ECOR 1047,T1,Visual Communication,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Fri,14:35,17:25,Canal Building,3101,,ECOR
+20956,Open,ECOR 1048,S,Dynamics,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,12:55,Azrieli Theatre,302,,ECOR
+20957,Open,ECOR 1048,S1,Dynamics,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon,11:35,14:25,Canal Building,3101,,ECOR
+20958,Open,ECOR 1048,S2,Dynamics,0,Laboratory,No,Yes,,"May 05, 2025","Jun 17, 2025",Fri,14:35,17:25,Canal Building,3101,,ECOR
+21291,Open,ECOR 1048,T,Dynamics,.25,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,12:55,Azrieli Theatre,302,,ECOR
+21292,Open,ECOR 1048,T1,Dynamics,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Fri,08:35,11:25,Canal Building,3101,,ECOR
+21293,Open,ECOR 1048,T2,Dynamics,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Thu,08:35,11:25,Canal Building,3101,,ECOR
+21294,Open,ECOR 1048,T3,Dynamics,0,Laboratory,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue,11:35,14:25,Canal Building,3101,,ECOR
+20960,Open,ECOR 2050,A,Design/Analysis of Experiments,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Minto Centre,5050,,ECOR
+20961,Open,ECOR 2050,A1,Design/Analysis of Experiments,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Mackenzie Building,3269,,ECOR
+20962,Open,ECOR 2050,A2,Design/Analysis of Experiments,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,08:35,11:25,Mackenzie Building,3235,,ECOR
+20965,Open,ECOR 2995,S,Engineering Portfolio,0,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR
+20966,Open,ECOR 3800,A,Engineering Economics,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Azrieli Theatre,302,,ECOR
+20967,Open,ECOR 4995,A,Professional Practice,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ECOR

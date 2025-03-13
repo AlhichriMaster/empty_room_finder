@@ -1,0 +1,4 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20917,Open,CRCJ 1000,A,Intro Criminol & Criminal Justic,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,CRCJ
+21254,Open,CRCJ 2200,B,Contemp. Issues in Crim & CJ,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,CRCJ
+20918,Open,CRCJ 3201,A,Green Criminology,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,ON,LINE,,CRCJ

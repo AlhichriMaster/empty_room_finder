@@ -1,0 +1,20 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20114,Open,CDNS 4800,A,Internship Practicum,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20863,Open,CDNS 4801,A,Internship/Practicum,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CDNS
+21222,Open,CDNS 4802,A,Internship/Practicum,.5,Practicum,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20864,Open,CDNS 4905,A,Directed Studies I,.5,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CDNS
+21223,Open,CDNS 4906,A,Directed Studies II,.5,Independent Study,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20115,Open,CDNS 4907,A,Directed Studies III,1,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20116,Open,CDNS 5800,S,Internship/Practicum,1,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20865,Open,CDNS 5801,S,Internship/Practicum,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CDNS
+21224,Open,CDNS 5801,U,Internship/Practicum,.5,Practicum,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20117,Open,CDNS 5900,S,Directed Studies,1,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20866,Open,CDNS 5901,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CDNS
+21225,Open,CDNS 5901,U,Directed Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20118,Open,CDNS 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20119,Open,CDNS 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20867,Open,CDNS 6901,S,Ph.D. Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CDNS
+21226,Open,CDNS 6902,S,Ph.D. Tutorial,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20120,Open,CDNS 6905,S,Ph.D. Comprehensive Exam,.5,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20121,Open,CDNS 6907,S,Ph.D. Comprehensive Exam,.5,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS
+20122,Open,CDNS 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CDNS

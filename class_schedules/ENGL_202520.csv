@@ -1,0 +1,14 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20976,Open,ENGL 1010,A,Writing Essays about Lit.,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,Richcraft Hall,3202,,ENGL
+21302,Open,ENGL 2011,A,Children's Literature,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,14:25,ON,LINE,,ENGL
+20977,Open,ENGL 2500,A,Classical Mythology,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ENGL
+20978,Open,ENGL 3605,A,Modern/Contemp Literary Theory,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,ENGL
+20979,Open,ENGL 4115,A,Culture & the Text,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Dunton Tower,1812,,ENGL
+20980,Open,ENGL 4115,B,Culture & the Text,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,Dunton Tower,1812,,ENGL
+20981,Open,ENGL 5610,S,Studies Contemporary Literat I,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,Dunton Tower,1812,,ENGL
+20982,Open,ENGL 5900,S,Sel. Topic English Studies I,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Dunton Tower,1812,,ENGL
+20335,Open,ENGL 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENGL
+20336,Open,ENGL 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENGL
+20337,Open,ENGL 6101,T,Directed Reading,.5,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENGL
+20338,Open,ENGL 6900,S,Comprehensive Examination,1,Comprehensive,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENGL
+20339,Open,ENGL 6909,S,Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ENGL

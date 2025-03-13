@@ -1,0 +1,5 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21040,Open,INDG 1011,B,Intro. Indg. Settler Enc.,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,Loeb Building,A720,,INDG
+21041,Open,INDG 4015,A,Land as a Relation,.5,Field Course,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,INDG
+20469,Open,INDG 4905,A,Directed Studies I,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,INDG
+21334,Open,INDG 4905,B,Directed Studies I,.5,Directed Studies,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,INDG

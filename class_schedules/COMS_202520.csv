@@ -1,0 +1,16 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20912,Open,COMS 1001,S,Found in Comm & Media Studies,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMS
+20913,Open,COMS 2003,S,Th Found in Comm & Med St,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMS
+21249,Open,COMS 2004,A,Intro to Comm Research,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMS
+20914,Open,COMS 3001,S,Quantitative Res in Comm,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMS
+21250,Open,COMS 3002,S,Qualitative Res in Comm,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,COMS
+21251,Open,COMS 4502,S,Storytelling in the Digitl Age,.5,Workshop,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,Richcraft Hall,3112,,COMS
+20915,Open,COMS 5808,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,COMS
+21252,Open,COMS 5808,U,Directed Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20184,Open,COMS 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20185,Open,COMS 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20916,Open,COMS 6010,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,COMS
+21253,Open,COMS 6010,U,Directed Studies,.5,Directed Studies,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20186,Open,COMS 6900,S,Comprehensive Examination I,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20187,Open,COMS 6901,S,Comprehensive Examination II,1,Comprehensive,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS
+20188,Open,COMS 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,COMS

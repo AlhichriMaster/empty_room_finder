@@ -1,0 +1,7 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20988,Open,EPAF 5100,A,Supervised Research Tutorial,.5,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,EPAF
+21303,Open,EPAF 5100,B,Supervised Research Tutorial,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EPAF
+20350,Open,EPAF 5500,S,Practicum,.5,Practicum,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EPAF
+20351,Open,EPAF 6600,S,Theory Examination,.5,Comprehensive,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EPAF
+20352,Open,EPAF 6700,S,Area Examination,.5,Comprehensive,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EPAF
+20353,Open,EPAF 6909,S,Ph.D. Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,EPAF

@@ -1,0 +1,6 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21454,Open,ARCC 4200,A,Structural Morphology,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,09:05,11:55,Architecture Building,209,,ARCC
+20807,Open,ARCC 4200,B,Structural Morphology,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu Fri,10:05,16:55,Architecture Building,204,,ARCC
+21455,Open,ARCC 5000,A,Dir Stud in Arch & Technology,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Thu,09:05,11:55,Architecture Building,209,,ARCC
+20808,Open,ARCC 5000,B,Dir Stud in Arch & Technology,.5,Directed Studies,No,Yes,,"May 05, 2025","Jun 17, 2025",Thu Fri,10:05,16:55,Architecture Building,204,,ARCC
+20809,Open,ARCC 5098,A,Building Technology III,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,Nicol Building,3030,,ARCC

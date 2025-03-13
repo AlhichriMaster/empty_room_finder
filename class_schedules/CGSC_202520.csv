@@ -1,0 +1,16 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20868,Open,CGSC 1001,A,Mysteries of the Mind,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,ON,LINE,,CGSC
+21227,Open,CGSC 2001,B,Theories in Cognitive Science,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,17:35,20:25,ON,LINE,,CGSC
+20124,Open,CGSC 4801,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20125,Open,CGSC 4802,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20126,Open,CGSC 4908,A,Honours Thesis,1,Independent Study,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20127,Open,CGSC 4908,B,Honours Thesis,1,Independent Study,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20128,Open,CGSC 4908,C,Honours Thesis,1,Independent Study,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20129,Open,CGSC 5907,S,Independent Research,.5,Independent Study,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20130,Open,CGSC 5908,S,Research Project,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20131,Open,CGSC 5909,S,M.Cog.Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20132,Open,CGSC 6002,S,Methodology Rotation I,.5,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20133,Open,CGSC 6003,S,Methodology Rotation II,.5,Research Essay,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20134,Open,CGSC 6901,S,Directed Studies I,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20135,Open,CGSC 6902,S,Directed Studies II,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC
+20136,Open,CGSC 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CGSC

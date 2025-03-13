@@ -1,0 +1,7 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21438,Open,CHST 2011,A,Children's Literature,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,14:25,ON,LINE,,CHST
+20886,Open,CHST 3303,A,Childrens' Rights,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,ON,LINE,,CHST
+21238,Open,CHST 3304,A,Disability and Childhood,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,14:25,ON,LINE,,CHST
+21239,Open,CHST 3501,A,"Sexuality, Gender & Childhood",.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,Loeb Building,A720,,CHST
+20887,Open,CHST 4001,B,Advancd Special Topics in CHST,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,ON,LINE,,CHST
+20888,Open,CHST 4900,A,Independent Study,.5,Independent Study,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CHST

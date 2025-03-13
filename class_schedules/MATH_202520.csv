@@ -1,0 +1,46 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21345,Open,MATH 1005,A,Diff. Eqs. & Series Eng. & Phy,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:35,21:25,Azrieli Theatre,102,,MATH
+21346,Open,MATH 1005,A1,Diff. Eqs. & Series Eng. & Phy,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,18:25,Southam Hall,515,,MATH
+21347,Open,MATH 1005,A2,Diff. Eqs. & Series Eng. & Phy,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,18:25,Nideyinàn (former UC),282,,MATH
+21348,Open,MATH 1005,A3,Diff. Eqs. & Series Eng. & Phy,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,18:25,Southam Hall,516,,MATH
+20525,Open,MATH 1007,A,Elementary Calculus I,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,Azrieli Theatre,302,,MATH
+20526,Open,MATH 1007,A1,Elementary Calculus I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:35,18:25,Tory Building,208,,MATH
+20527,Open,MATH 1007,A2,Elementary Calculus I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:35,18:25,Tory Building,342,,MATH
+20529,Open,MATH 1009,A,Mathematics for Business,.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,Tory Building,342,,MATH
+20530,Open,MATH 1009,A1,Mathematics for Business,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:35,18:25,Richcraft Hall,1201,,MATH
+20532,Open,MATH 1104,A,Linear Algebra (Eng. or Sci.),.5,Lecture,No,Yes,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:35,19:55,Loeb Building,C264,,MATH
+20533,Open,MATH 1104,A1,Linear Algebra (Eng. or Sci.),0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Mon,17:35,18:25,Tory Building,342,,MATH
+20534,Open,MATH 1104,A2,Linear Algebra (Eng. or Sci.),0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Mon,17:35,18:25,Canal Building,3101,,MATH
+20535,Open,MATH 1107,A,Linear Algebra I,.5,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:35,19:55,Loeb Building,C164,,MATH
+20536,Open,MATH 1107,A1,Linear Algebra I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Wed,17:35,18:25,Nicol Building,4040,,MATH
+21349,Open,MATH 1800,A,Intro Mathematical Reasoning,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:35,21:25,ON,LINE,,MATH
+21350,Open,MATH 1800,A1,Intro Mathematical Reasoning,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,17:35,18:25,ON,LINE,,MATH
+21071,Open,MATH 2004,A,Multivariable Cal. Eng or Phys,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:35,21:25,Azrieli Theatre,102,,MATH
+21072,Open,MATH 2004,A1,Multivariable Cal. Eng or Phys,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,18:25,Canal Building,2202,,MATH
+21073,Open,MATH 2004,A2,Multivariable Cal. Eng or Phys,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,18:25,Tory Building,240,,MATH
+20539,Open,MATH 2007,A,Elementary Calculus II,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:35,19:55,Loeb Building,A720,,MATH
+20540,Open,MATH 2007,A1,Elementary Calculus II,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Mon,17:35,18:25,Tory Building,208,,MATH
+21077,Open,MATH 2008,A,Intermediate Calculus,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:35,21:25,Azrieli Theatre,102,,MATH
+21078,Open,MATH 2008,A1,Intermediate Calculus,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,18:25,Canal Building,2202,,MATH
+21079,Open,MATH 2008,A2,Intermediate Calculus,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,17:35,18:25,Tory Building,240,,MATH
+20541,Open,MATH 2107,A,Linear Algebra II,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,Loeb Building,C264,,MATH
+20542,Open,MATH 2107,A1,Linear Algebra II,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:35,18:25,St. Patrick's Building,303,,MATH
+20543,Open,MATH 2107,A2,Linear Algebra II,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Tue,17:35,18:25,Loeb Building,A720,,MATH
+20544,Open,MATH 2108,A,Abstract Algebra I,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,Loeb Building,A720,,MATH
+20545,Open,MATH 2108,A1,Abstract Algebra I,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Thu,17:35,18:25,Loeb Building,A720,,MATH
+20547,Open,MATH 3101,A,Algebraic Structures (C.S.),.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,18:35,19:55,Loeb Building,A720,,MATH
+20548,Open,MATH 3101,A1,Algebraic Structures (C.S.),0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Thu,17:35,18:25,Loeb Building,A720,,MATH
+21351,Open,MATH 3705,A,Mathematical Methods I,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:35,21:25,Tory Building,340,,MATH
+21352,Open,MATH 3705,A1,Mathematical Methods I,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,17:35,18:25,Southam Hall,516,,MATH
+21353,Open,MATH 3705,A2,Mathematical Methods I,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,17:35,18:25,St. Patrick's Building,435,,MATH
+21439,Open,MATH 3801,A,Linear Programming,.5,Lecture,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,17:05,18:25,Loeb Building,C264,,MATH
+21440,Open,MATH 3801,A1,Linear Programming,0,Tutorial,Yes,No,,"May 05, 2025","Aug 14, 2025",Tue,16:05,16:55,Loeb Building,A720,,MATH
+20553,Open,MATH 4905,A,Honours Project,.5,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20554,Open,MATH 4905,B,Honours Project,.5,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20555,Open,MATH 4905,C,Honours Project,.5,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+21084,Open,MATH 4905,D,Honours Project,.5,Honours Essay,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,MATH
+21355,Open,MATH 4905,E,Honours Project,.5,Honours Essay,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20560,Open,MATH 5906,S,Research Internship,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20561,Open,MATH 5909,S,M.Sc. Thesis in Mathematics,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+21356,Open,MATH 5910,S,Project in Mathematics,1,Research Project,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH
+20564,Open,MATH 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MATH

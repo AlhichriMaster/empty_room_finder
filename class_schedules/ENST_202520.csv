@@ -1,0 +1,5 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20983,Open,ENST 1020,A,"People, Places & Environments",.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:35,20:25,Tory Building,208,,ENST
+20984,Open,ENST 1020,A1,"People, Places & Environments",0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,16:35,17:25,Loeb Building,A410,,ENST
+20985,Open,ENST 1020,A2,"People, Places & Environments",0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,17:35,18:25,Loeb Building,A410,,ENST
+20987,Open,ENST 3900,A,Honours Field Course,.5,Field Course,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,Loeb Building,A410,,ENST

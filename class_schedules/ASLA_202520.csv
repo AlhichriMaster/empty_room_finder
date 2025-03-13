@@ -1,0 +1,3 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20820,Open,ASLA 1010,A,First-Year ASL I,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,09:35,13:25,St. Patrick's Building,303,,ASLA
+21203,Open,ASLA 1020,A,First-Year ASL II,.5,Seminar,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,09:35,13:25,St. Patrick's Building,303,,ASLA

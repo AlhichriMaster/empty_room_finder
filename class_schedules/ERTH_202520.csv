@@ -1,0 +1,5 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20989,Open,ERTH 2401,S,Dinosaurs,.5,Lecture,No,Yes,,"May 05, 2025","Jun 17, 2025",Mon Tue Wed Thu,10:05,11:25,ON,LINE,,ERTH
+20355,Open,ERTH 5909,S,M.Sc. Thesis,0,Masters Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ERTH
+20356,Open,ERTH 6908,A,Ph.D. Comprehensive Examinatio,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ERTH
+20357,Open,ERTH 6909,S,Ph.D. Thesis,0,PhD Thesis,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ERTH

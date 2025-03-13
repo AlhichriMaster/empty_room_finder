@@ -1,0 +1,24 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20869,Open,CHEM 1001,A,General Chemistry I,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Steacie Building,103,,CHEM
+20871,Open,CHEM 1001,A2,General Chemistry I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,12:35,15:25,Steacie Building,204A,,CHEM
+20872,Open,CHEM 1001,ATU,General Chemistry I,0,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Fri,10:05,11:55,Steacie Building,103,,CHEM
+20873,Open,CHEM 1001,G1,General Chemistry I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CHEM
+21228,Open,CHEM 1002,A,General Chemistry II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,11:35,14:25,Steacie Building,103,,CHEM
+21230,Open,CHEM 1002,A2,General Chemistry II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,12:35,15:25,Steacie Building,204A,,CHEM
+21231,Open,CHEM 1002,ATU,General Chemistry II,0,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Fri,10:05,11:55,Steacie Building,103,,CHEM
+21232,Open,CHEM 1002,G1,General Chemistry II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20880,Open,CHEM 2203,A,Organic Chemistry I,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Steacie Building,103,,CHEM
+20882,Open,CHEM 2203,A2,Organic Chemistry I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,12:35,15:25,Steacie Building,204D,,CHEM
+20883,Open,CHEM 2203,G1,Organic Chemistry I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,CHEM
+21233,Open,CHEM 2204,A,Organic Chemistry II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,08:35,11:25,Steacie Building,103,,CHEM
+21235,Open,CHEM 2204,A2,Organic Chemistry II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,12:35,15:25,Steacie Building,204D,,CHEM
+21236,Open,CHEM 2204,G1,Organic Chemistry II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20884,Open,CHEM 2207,A,Intro: Organic Chemistry I,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,08:35,11:25,Steacie Building,103,,CHEM
+21237,Open,CHEM 2208,A,Intro: Organic Chemistry II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,08:35,11:25,Steacie Building,103,,CHEM
+20138,Open,CHEM 4907,A,Hons Essay Rsrch Proposal,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20139,Open,CHEM 4908,A,Research Project and Seminar,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20140,Open,CHEM 5802,S,Seminar II,0,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20885,Open,CHEM 5806,A,Advances Applied Biochemistry,.5,Seminar,No,No,,"May 12, 2025","May 23, 2025",Mon Tue Wed Thu Fri,08:05,16:55,Tory Building,132,,CHEM
+20885,Open,CHEM 5806,A,Advances Applied Biochemistry,.5,Seminar,No,No,,"May 12, 2025","May 23, 2025",Mon Tue Wed Thu Fri,08:05,16:55,Richcraft Hall,3320,,CHEM
+20141,Open,CHEM 5909,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM
+20142,Open,CHEM 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,CHEM

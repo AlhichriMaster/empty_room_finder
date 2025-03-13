@@ -1,0 +1,10 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21045,Open,ITIS 5401,V,Managing Information Systems,.25,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ITIS
+20492,Open,ITIS 5431,N,Business Analytics for Manager,.25,Seminar,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITIS
+21337,Open,ITIS 5431,P,Business Analytics for Manager,.25,Seminar,Yes,Yes,,"Jul 11, 2025","Jul 12, 2025",Fri Sat,08:35,17:25,Nicol Building,4040,,ITIS
+21338,Open,ITIS 5431,V,Business Analytics for Manager,.25,Seminar,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ITIS
+20493,Open,ITIS 5432,N,Business Analytics Methods,.25,Seminar,Yes,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITIS
+21046,Open,ITIS 5433,V,Business Analytics Methods,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ITIS
+20494,Open,ITIS 5434,N,Data Visualization,.25,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,ITIS
+21339,Open,ITIS 5434,P,Data Visualization,.25,Lecture,Yes,Yes,,"Aug 08, 2025","Aug 09, 2025",Fri Sat,08:35,17:25,Nicol Building,4040,,ITIS
+21047,Open,ITIS 5434,V,Data Visualization,.25,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,ITIS

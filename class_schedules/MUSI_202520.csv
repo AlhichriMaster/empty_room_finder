@@ -1,0 +1,17 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21089,Open,MUSI 1001,A,Classical Music History,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,11:35,14:25,Loeb Building,A720,,MUSI
+21090,Open,MUSI 1002,A,Issues in Popular Music,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,MUSI
+20584,Open,MUSI 4205,A,Specialized Studies,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20585,Open,MUSI 4206,A,Specialized Performance,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+21091,Open,MUSI 4800,A,Practicum in Music,.5,Practicum,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,MUSI
+21363,Open,MUSI 4801,A,Practicum in Music,.5,Practicum,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20586,Open,MUSI 4906,B,Portfolio in Composition,.5,Independent Study,Yes,Yes,2nd half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20587,Open,MUSI 4906,C,Portfolio in Composition,.5,Independent Study,Yes,Yes,1st half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20588,Open,MUSI 4908,B,Honours Essay in Musicology,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20589,Open,MUSI 4908,C,Honours Essay in Musicology,.5,Honours Essay,No,Yes,1st half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20590,Open,MUSI 4909,B,Portfolio in New Media,1,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20591,Open,MUSI 5300,S,Practicum in Music,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+21092,Open,MUSI 5400,W,Advanced Studies - Performance,.25,Other,No,No,2nd half of two term course,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20592,Open,MUSI 5900,S,Directed Readings & Research,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20593,Open,MUSI 5908,S,Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI
+20594,Open,MUSI 5909,S,M.A Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,MUSI

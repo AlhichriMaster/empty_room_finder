@@ -1,0 +1,27 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21150,Open,SOCI 1001,A,Introduction to Sociology I,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,ON,LINE,,SOCI
+21408,Open,SOCI 1002,A,Introduction Sociology II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,14:35,17:25,ON,LINE,,SOCI
+21151,Open,SOCI 2000,A,Foundations of Socio. Inquiry,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,14:35,17:25,ON,LINE,,SOCI
+21409,Open,SOCI 2001,A,Intr Qualitative Rsrch Methods,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,14:35,17:25,ON,LINE,,SOCI
+21152,Open,SOCI 2005,A,Histories of Socio. Thought,1,Lecture,No,No,,"May 05, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,ON,LINE,,SOCI
+21153,Open,SOCI 2705,A,Popular Culture in Digital Age,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,ON,LINE,,SOCI
+21154,Open,SOCI 2820,B,ST: Palestinian Soc. & Culture,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,ON,LINE,,SOCI
+21155,Open,SOCI 2910,A,Course-Related Tut. in Sociol.,.5,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21410,Open,SOCI 2920,A,Course-Related Tut. in Sociol.,.5,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21411,Open,SOCI 3027,A,Globalization & Human Rights,.5,Lecture,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,SOCI
+21412,Open,SOCI 3045,A,Child Childhood Global World,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,11:35,14:25,ON,LINE,,SOCI
+21156,Open,SOCI 3055,A,Studies in Addictions,.5,Lecture,Yes,Yes,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Tory Building,342,,SOCI
+21157,Open,SOCI 3910,A,Course-Related Tut. in Soc.,.5,Tutorial,No,Yes,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21413,Open,SOCI 3920,A,Course-Related Tut. in Socio.,.5,Tutorial,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21158,Open,SOCI 4850,B,ST: Race & Medicine,.5,Seminar,No,Yes,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,SOCI
+20699,Open,SOCI 4900,B,Honours Thesis,1,Seminar,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21159,Open,SOCI 4910,A,Tutorial in Sociology,.5,Tutorial,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,SOCI
+21414,Open,SOCI 4920,A,Tutorial in Sociology,.5,Tutorial,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20700,Open,SOCI 4920,B,Tutorial in Sociology,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20701,Open,SOCI 5900,S,Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20702,Open,SOCI 5900,U,Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20703,Open,SOCI 5906,S,Placement in Sociology,.5,Field Placement,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20704,Open,SOCI 5908,S,M.A. Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20705,Open,SOCI 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20707,Open,SOCI 6900,S,Tutorial,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI
+20708,Open,SOCI 6909,A,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,SOCI

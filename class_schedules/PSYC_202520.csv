@@ -1,0 +1,42 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+21134,Open,PSYC 1001,A,Introduction to Psychology I,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21395,Open,PSYC 1002,A,Introduction to Psychology II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21135,Open,PSYC 2001,A,Intro to Res Meth in Psych,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSYC
+21396,Open,PSYC 2002,B,Intro to Statistics in Psych,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21397,Open,PSYC 2100,A,Social Psychology,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSYC
+21136,Open,PSYC 2301,A,Introduction to Health Psych,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PSYC
+21137,Open,PSYC 2400,A,Forensic Psychology,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,Minto Centre,5050,,PSYC
+21138,Open,PSYC 2500,A,Developmental Psychology,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSYC
+21139,Open,PSYC 2600,A,Personality,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,18:05,20:55,Tory Building,360,,PSYC
+21398,Open,PSYC 2700,A,Cognitive Psychology,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21399,Open,PSYC 2801,A,Organizational Psychology I,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PSYC
+20669,Open,PSYC 3000,A,Advanced Design & Analysis,1,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PSYC
+20670,Open,PSYC 3000,A1,Advanced Design & Analysis,0,Tutorial,No,No,,"May 05, 2025","Aug 14, 2025",Mon Wed,17:05,17:55,ON,LINE,,PSYC
+21400,Open,PSYC 3402,A,Criminal Behaviour,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PSYC
+21140,Open,PSYC 3403,A,Addiction,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PSYC
+21141,Open,PSYC 3604,A,Clinical and Mental Illness,.5,Lecture,Yes,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21401,Open,PSYC 4301,A,Advanced Topics Health PSYC,.5,Seminar,Yes,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+21142,Open,PSYC 4900,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSYC
+21402,Open,PSYC 4900,B,Independent Study,.5,Independent Study,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+21143,Open,PSYC 4902,A,Independent Study,.5,Independent Study,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: Room:,,,Room:,,,PSYC
+21403,Open,PSYC 4902,B,Independent Study,.5,Independent Study,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20672,Open,PSYC 4907,A,Honours Thesis (B.Sc.),1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20673,Open,PSYC 4907,B,Honours Thesis (B.Sc.),1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20674,Open,PSYC 4908,A,Honours Thesis (B.A.),1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20675,Open,PSYC 4908,B,Honours Thesis (B.A.),1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20676,Open,PSYC 4909,A,Project for B.Sc. Hon in Psyc,1,Seminar,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSYC
+20677,Open,PSYC 4910,A,Project for B.A. Hon in Psyc,1,Seminar,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,ON,LINE,,PSYC
+21404,Open,PSYC 5804,A,Clinical Approaches- Assessmen,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Tue Thu,18:05,20:55,ON,LINE,,PSYC
+20678,Open,PSYC 5900,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20679,Open,PSYC 5900,U,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20680,Open,PSYC 5901,S,Independent Research,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20681,Open,PSYC 5901,U,Independent Research,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20682,Open,PSYC 5903,S,Practicum in Psychology,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20683,Open,PSYC 5909,S,M.A. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20684,Open,PSYC 6114,S,Teaching Practicum,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20685,Open,PSYC 6900,S,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20686,Open,PSYC 6900,U,Directed Studies,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20687,Open,PSYC 6901,S,Independent Research,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20688,Open,PSYC 6901,U,Independent Research,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20689,Open,PSYC 6903,S,Practicum in Psychology,.5,Practicum,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC
+20690,Open,PSYC 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PSYC

@@ -1,0 +1,15 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20648,Open,PHYS 1004,A,Electromagnetism & Wave Motion,.5,Lecture,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Mon Wed,14:35,15:55,Azrieli Theatre,302,,PHYS
+20649,Open,PHYS 1004,A1,Electromagnetism & Wave Motion,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Tue,08:35,11:25,Herzberg Laboratories,4130,,PHYS
+20650,Open,PHYS 1004,A2,Electromagnetism & Wave Motion,0,Laboratory,No,No,,"May 05, 2025","Aug 14, 2025",Thu,13:05,15:55,Herzberg Laboratories,4130,,PHYS
+21114,Open,PHYS 1007,A,University Physics I,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Mon Wed,14:35,17:25,Azrieli Theatre,102,,PHYS
+21115,Open,PHYS 1007,A1,University Physics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Tue,13:05,15:55,Herzberg Laboratories,4160,,PHYS
+21116,Open,PHYS 1007,A2,University Physics I,0,Laboratory,No,No,,"May 05, 2025","Jun 17, 2025",Thu,08:35,11:25,Herzberg Laboratories,4160,,PHYS
+21376,Open,PHYS 1008,A,University Physics II,.5,Lecture,Yes,No,,"Jul 02, 2025","Aug 14, 2025",Mon Wed,18:05,20:55,Tory Building,202,,PHYS
+21377,Open,PHYS 1008,A1,University Physics II,0,Laboratory,No,No,,"Jul 02, 2025","Aug 14, 2025",Tue,13:05,15:55,Herzberg Laboratories,4160,,PHYS
+21117,Open,PHYS 1901,V,Planetary Astronomy,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHYS
+21378,Open,PHYS 1902,V,From Our Star to the Cosmos,.5,Lecture,No,No,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHYS
+21118,Open,PHYS 1905,R,Physics Behind Everyday Life,.5,Lecture,No,No,,"May 05, 2025","Jun 17, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHYS
+21379,Open,PHYS 2903,R,Physics Towards the Future,.5,Lecture,No,Yes,,"Jul 02, 2025","Aug 14, 2025",Time: Building: ON Room: LINE,,,ON,LINE,,PHYS
+20652,Open,PHYS 5909,S,M.Sc. Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PHYS
+20653,Open,PHYS 6909,S,Ph.D. Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,PHYS

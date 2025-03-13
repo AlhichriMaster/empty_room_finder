@@ -1,0 +1,8 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20424,Open,GINS 1300,S,IER Preparation,0,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20425,Open,GINS 3900,S,International Placement,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20426,Open,GINS 3901,S,International Placement,1,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20427,Open,GINS 3930,S,CU International Placement,.5,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20428,Open,GINS 3931,S,CU International Placement,1,Field Placement,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20430,Open,GINS 4900,S,Tut Glob & Intl Studies,.5,Tutorial,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS
+20431,Open,GINS 4908,B,Honours Research Essay,1,Honours Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,GINS

@@ -1,0 +1,10 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20046,Open,BIOC 2400,A,Independent Research I,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20047,Open,BIOC 3400,A,Independent Research II,.5,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20049,Open,BIOC 4901,A,Directed Studies,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20050,Open,BIOC 4901,B,Directed Studies,.5,Independent Study,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20051,Open,BIOC 4907,A,Honours Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20052,Open,BIOC 4907,B,Honours Research Essay,1,Research Essay,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20053,Open,BIOC 4908,A,Research Project,1,Research Project,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20054,Open,BIOC 4908,B,Research Project,1,Research Project,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC
+20055,Open,BIOC 4908,C,Research Project,1,Research Project,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,BIOC

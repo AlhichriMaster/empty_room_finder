@@ -1,0 +1,19 @@
+crn,status,course_code,section,title,credits,type,hybrid,online,instructor,start_date,end_date,days,start_time,end_time,building,room,section_info,program_code
+20442,Open,HLTH 4901,A,Directed Studies in Health,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20443,Open,HLTH 4910,A,Honours Ind Research Thesis,1,Other,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20444,Open,HLTH 4910,B,Honours Ind Research Thesis,.5,Other,Yes,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20445,Open,HLTH 5505,A,Health Rsrch Project - Individ,1,Research Project,No,Yes,,"May 05, 2025","Aug 14, 2025",Mon,14:35,17:25,Health Science Building,1104,,HLTH
+20446,Open,HLTH 5506,A,Field Research and Placement,1,Practicum,No,No,,"May 05, 2025","Aug 14, 2025",Mon,14:35,17:25,Health Science Building,1104,,HLTH
+20447,Open,HLTH 5507,A,Interdis Hlth research Proj,1,Research Project,No,No,,"May 05, 2025","Aug 14, 2025",Mon,14:35,17:25,Health Science Building,1104,,HLTH
+21029,Open,HLTH 5702,S,Race and Medicine,.5,Seminar,No,No,,"May 05, 2025","Jun 17, 2025",Tue Thu,11:35,14:25,ON,LINE,,HLTH
+20448,Open,HLTH 5800,A,Dir.Std. Health: Sci Tech Plcy,.5,Directed Studies,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20449,Open,HLTH 5801,S,"HLTH: Sci, Tech & Pol Praticum",.5,Practicum,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20450,Open,HLTH 5902,B,Interdisciplinary Hlth Sci,.25,Seminar,No,Yes,2nd half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20451,Open,HLTH 5902,C,Interdisciplinary Hlth Sci,.25,Seminar,No,Yes,1st half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20452,Open,HLTH 5905,S,Research Seminar Presentation,0,Other,No,No,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20453,Open,HLTH 5909,S,MSc Thesis,0,Masters Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20454,Open,HLTH 6902,B,Interdisciplinary Hlth Sci,.25,Seminar,No,Yes,2nd half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20455,Open,HLTH 6902,C,Interdisciplinary Hlth Sci,.25,Seminar,No,Yes,1st half of two term course,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20456,Open,HLTH 6904,S,Mid-Program Defence,0,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20457,Open,HLTH 6905,S,Research Seminar Presentation,0,Other,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
+20458,Open,HLTH 6909,S,PhD Thesis,0,PhD Thesis,No,Yes,,"May 05, 2025","Aug 14, 2025",Time: Building: Room:,,,Room:,,,HLTH
